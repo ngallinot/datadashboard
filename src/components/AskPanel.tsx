@@ -28,7 +28,9 @@ export function AskPanel({ library, role, mapDistricts, initialQuestion, live }:
       else { setRes(j); setHistory((h) => [text, ...h.filter((x) => x !== text)].slice(0, 6)); }
     } finally { setBusy(false); }
   }
-  useEffect(() => { if (initialQuestion) void submit(initialQuestion); /* eslint-disable-next-line react-hooks/exhaustive-deps */ }, []);
+  // Run a question passed in the URL (?q=) once on mount.
+  // eslint-disable-next-line react-hooks/set-state-in-effect, react-hooks/exhaustive-deps
+  useEffect(() => { if (initialQuestion) void submit(initialQuestion); }, []);
 
   const byLevel = library.reduce<Record<string, LibraryItem[]>>((m, l) => { const k = l.level.split(" · ")[0]; (m[k] ??= []).push(l); return m; }, {});
 

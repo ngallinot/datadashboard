@@ -1,0 +1,36 @@
+/* Print report styles. Page breaks are deliberate: headings stay with their content, rows never split, groups keep their title. */
+@page { size: Letter; margin: 0.6in 0.6in 0.7in 0.6in; }
+html, body.print-body { background: #fff !important; color: #0f1720; font-size: 11.5px; line-height: 1.4; }
+.report { max-width: 7.3in; margin: 0 auto; }
+.report h1 { font-size: 22px; font-weight: 700; letter-spacing: -0.01em; margin: 0; }
+.report h2 { font-size: 15px; font-weight: 700; margin: 0 0 4px; break-after: avoid; page-break-after: avoid; }
+.report h3 { font-size: 12.5px; font-weight: 700; margin: 0 0 2px; break-after: avoid; page-break-after: avoid; }
+.report .sec { break-inside: avoid; page-break-inside: avoid; margin-top: 18px; }
+.report .sec-loose { margin-top: 18px; }               /* long tables: may break between rows, never inside a row */
+.report .sec-loose h2, .report .sec-loose .lead { break-after: avoid; page-break-after: avoid; }
+.report .lead { color: #4b5560; margin: 0 0 8px; }
+.report .kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
+.report .kpi { border: 1px solid #d9dbd5; border-radius: 8px; padding: 10px 12px; break-inside: avoid; }
+.report .kpi .l { font-size: 9.5px; letter-spacing: .06em; text-transform: uppercase; color: #7c8792; font-weight: 600; }
+.report .kpi .v { font-size: 24px; font-weight: 700; margin-top: 4px; letter-spacing: -0.02em; }
+.report .kpi .c { font-size: 10.5px; color: #4b5560; margin-top: 2px; }
+.report .q { border: 1px solid #d9dbd5; border-radius: 8px; padding: 12px 14px; break-inside: avoid; }
+.report .q .big { font-size: 30px; font-weight: 700; margin: 6px 0 2px; }
+.report .status { display: inline-block; margin-top: 8px; padding: 2px 8px; border-radius: 999px; font-size: 10.5px; font-weight: 600; }
+.report .status.ok { background: #e3f5e3; color: #006300; } .report .status.warn { background: #fbf0d6; color: #7a5200; }
+.report table { width: 100%; border-collapse: collapse; font-size: 10.8px; }
+.report thead { display: table-header-group; }
+.report th { text-align: left; font-size: 9.5px; letter-spacing: .05em; text-transform: uppercase; color: #7c8792; padding: 5px 6px; border-bottom: 1px solid #c9cbc3; }
+.report td { padding: 5px 6px; border-bottom: 1px solid #e6e7e2; vertical-align: top; }
+.report tr { break-inside: avoid; page-break-inside: avoid; }
+.report .r { text-align: right; font-variant-numeric: tabular-nums; }
+.report .card { border: 1px solid #d9dbd5; border-radius: 8px; padding: 12px 14px; box-shadow: none; background: #fff; break-inside: avoid; }
+.report .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.report .grid3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
+.report .muted { color: #7c8792; font-size: 10px; }
+.report .pill { font-size: 10px; padding: 1px 7px; }
+.report .bar { height: 7px; background: #eef0ea; border-radius: 4px; overflow: hidden; } .report .bar > div { height: 100%; border-radius: 4px; background: #2a78d6; }
+.report .footer { margin-top: 20px; padding-top: 8px; border-top: 1px solid #e6e7e2; font-size: 9.5px; color: #7c8792; }
+.report .banner { background: #fbf0d6; color: #7a5200; border-radius: 6px; padding: 5px 10px; font-size: 10px; margin-top: 8px; }
+.page-break { break-before: page; page-break-before: always; }
+@media screen { body.print-body { background: #e9eae5 !important; padding: 24px 0; } .report { background: #fff; padding: 0.6in; box-shadow: 0 2px 12px rgba(0,0,0,.12); } }

@@ -31,10 +31,10 @@ function probit(p: number): number {
   const c = [-7.784894002430293e-3, -3.223964580411365e-1, -2.400758277161838, -2.549732539343734, 4.374664141464968, 2.938163982698783];
   const d = [7.784695709041462e-3, 3.224671290700398e-1, 2.445134137142996, 3.754408661907416];
   const pl = 0.02425, ph = 1 - pl;
-  let q: number, r: number;
+  let q: number;
   if (p < pl) { q = Math.sqrt(-2 * Math.log(p)); return (((((c[0] * q + c[1]) * q + c[2]) * q + c[3]) * q + c[4]) * q + c[5]) / ((((d[0] * q + d[1]) * q + d[2]) * q + d[3]) * q + 1); }
   if (p > ph) { q = Math.sqrt(-2 * Math.log(1 - p)); return -(((((c[0] * q + c[1]) * q + c[2]) * q + c[3]) * q + c[4]) * q + c[5]) / ((((d[0] * q + d[1]) * q + d[2]) * q + d[3]) * q + 1); }
-  q = p - 0.5; r = q * q;
+  q = p - 0.5; const r = q * q;
   return (((((a[0] * r + a[1]) * r + a[2]) * r + a[3]) * r + a[4]) * r + a[5]) * q / (((((b[0] * r + b[1]) * r + b[2]) * r + b[3]) * r + b[4]) * r + 1);
 }
 const normCdf = (z: number) => 0.5 * (1 + erf(z / Math.SQRT2));
@@ -279,7 +279,7 @@ export function generate(db: Database.Database, buildings: BuildingInfo[], seed:
         const prior = clamp(85 + 7 * s.zA + subjShift + bRng.normal(0, 3.5), 45, 99);
         s.priorFinal[subj] = prior;
         ins.grade.run(s.id, PRIOR_YEAR, "FINAL", subj, letterFor(prior), round(prior, 0));
-        let mp1 = clamp(prior + bRng.normal(0, 3) - absPenalty * 0.5, 35, 99);
+        const mp1 = clamp(prior + bRng.normal(0, 3) - absPenalty * 0.5, 35, 99);
         let cur = clamp(mp1 + bRng.normal(0, 2.5) - absPenalty * 0.8, 30, 99);
         if (s.traj === "grade_drop" && subj === (s.zA < 0 ? "Math" : bRng.pick(["Math", "ELA", "Science"]))) cur = clamp(cur - bRng.int(12, 20), 30, 99);
         if (s.traj === "rising_absence" && subj === "Math") cur = clamp(cur - bRng.int(8, 16), 30, 99);
