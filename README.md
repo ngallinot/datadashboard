@@ -30,6 +30,16 @@ Use the role switcher in the top bar. The district selector changes which distri
 6. **Student** (`/student`) — a flagged student's profile: why flagged (explainable factors), strengths, attendance by month and weekday, grades vs. September, benchmarks, progress-monitoring chart, supports timeline, and **what has helped similar students** ("X% improved vs. Y% without") across attendance, behavior, academics, and wellness.
 7. **Reports** (`/district/reports`) — data-ready PDF and CSV bundle for the district, board packet PDF.
 
+## Deploying (demo link)
+
+The app is a Node server with a local SQLite file, so any host that runs a container works. The repo includes a `Dockerfile` (builds the warehouse and the app, bundles Chromium for PDFs), a `render.yaml` blueprint, and a `railway.json`.
+
+- **Render:** New → Blueprint → connect this repo → Apply. Free plan is fine for a demo.
+- **Railway:** New project → Deploy from GitHub repo → it picks up the Dockerfile.
+- **Anywhere with Docker:** `docker build -t csiu-insights . && docker run -p 3000:3000 csiu-insights`
+
+Set `ANTHROPIC_API_KEY` in the host's environment to enable free-form questions. Nothing else is required.
+
 ## How it is built
 
 ```

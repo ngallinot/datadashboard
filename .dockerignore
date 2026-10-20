@@ -1,0 +1,8 @@
+node_modules
+.next
+.git
+warehouse/*.db
+warehouse/*.db-*
+*.zip
+samples
+regional-preview.png

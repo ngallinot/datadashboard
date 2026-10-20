@@ -1,0 +1,15 @@
+# Render blueprint: https://render.com/docs/blueprint-spec
+# Deploy: New → Blueprint → connect ngallinot/datadashboard. The free plan is enough for a demo
+# (it sleeps when idle; first request after sleep takes ~30-60 s).
+services:
+  - type: web
+    name: csiu-district-insights
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /regional
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false          # optional: set in the Render dashboard to enable free-form questions
+      - key: ANTHROPIC_MODEL
+        value: claude-sonnet-5-5
