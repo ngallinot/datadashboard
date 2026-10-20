@@ -6,7 +6,11 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "seed": "tsx warehouse/seed/index.ts",
+    "sis:load": "tsx sis/load.ts",
+    "risk": "tsx warehouse/seed/risk.ts",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.135.0",

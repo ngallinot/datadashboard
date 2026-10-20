@@ -1,0 +1,1708 @@
+{
+ "source": "PAYS 2025 district profile reports (PCCD/Bach Harrison), from CSIU Google Drive",
+ "extracted": "2026-10-20",
+ "value_units": "percent of valid respondents; district 2025 value by grade and all grades combined; 'state' = PA 2025 statewide",
+ "districts": [
+  {
+   "district": "Benton Area",
+   "file_id": "1Mm_FRZCtb05goCxkUlSGgKq8akMboAwW",
+   "n_surveyed": 146,
+   "participation_rate_pct": 78.1,
+   "modified_participation_rate_pct": 77.7,
+   "n_by_grade": {
+    "g6": 42,
+    "g8": 33,
+    "g10": 38,
+    "g12": 33
+   },
+   "grades_surveyed": [
+    6,
+    8,
+    10,
+    12
+   ],
+   "indicators": {
+    "lifetime_alcohol": {
+     "all": 27.7,
+     "g6": 7.3,
+     "g8": 33.3,
+     "g10": 42.1,
+     "g12": 31.0,
+     "state": 23.3
+    },
+    "lifetime_marijuana": {
+     "all": 9.3,
+     "g6": 2.5,
+     "g8": 12.1,
+     "g10": 7.9,
+     "g12": 17.2,
+     "state": 8.7
+    },
+    "lifetime_vaping": {
+     "all": 15.7,
+     "g6": 2.5,
+     "g8": 15.2,
+     "g10": 21.1,
+     "g12": 27.6,
+     "state": 11.5
+    },
+    "past30_alcohol": {
+     "all": 7.1,
+     "g6": 0.0,
+     "g8": 9.1,
+     "g10": 13.2,
+     "g12": 7.1,
+     "state": 9.1
+    },
+    "past30_marijuana": {
+     "all": 2.2,
+     "g6": 0.0,
+     "g8": 6.1,
+     "g10": 2.6,
+     "g12": 0.0,
+     "state": 4.3
+    },
+    "past30_vaping": {
+     "all": 7.2,
+     "g6": 0.0,
+     "g8": 12.1,
+     "g10": 7.9,
+     "g12": 10.7,
+     "state": 6.3
+    },
+    "lifetime_cigarettes": {
+     "all": 6.5,
+     "g6": 2.5,
+     "g8": 3.1,
+     "g10": 5.3,
+     "g12": 17.2,
+     "state": 4.8
+    },
+    "past30_cigarettes": {
+     "all": 0.0,
+     "g6": 0.0,
+     "g8": 0.0,
+     "g10": 0.0,
+     "g12": 0.0,
+     "state": 1.8
+    },
+    "past30_nicotine_pouches": {
+     "all": 2.2,
+     "g6": 0.0,
+     "g8": 3.0,
+     "g10": 5.3,
+     "g12": 0.0,
+     "state": 2.1
+    },
+    "depressive_symptoms": {
+     "all": 31.1,
+     "g6": 34.4,
+     "g8": 31.3,
+     "g10": 29.4,
+     "g12": 29.2,
+     "state": 32.8
+    },
+    "self_harm_past_year": {
+     "all": 15.5,
+     "g6": 4.2,
+     "g8": 29.0,
+     "g10": 20.0,
+     "g12": 3.8,
+     "state": 13.5
+    },
+    "so_sad_stopped_activities": {
+     "all": 26.7,
+     "g6": 25.9,
+     "g8": 25.0,
+     "g10": 33.3,
+     "g12": 20.8,
+     "state": 24.0
+    },
+    "seriously_considered_suicide": {
+     "all": 18.3,
+     "g6": 7.4,
+     "g8": 12.5,
+     "g10": 30.3,
+     "g12": 21.7,
+     "state": 13.9
+    },
+    "planned_suicide": {
+     "all": 16.5,
+     "g6": 7.4,
+     "g8": 15.6,
+     "g10": 24.2,
+     "g12": 17.4,
+     "state": 10.7
+    },
+    "attempted_suicide": {
+     "all": 6.1,
+     "g6": 3.7,
+     "g8": 3.1,
+     "g10": 9.1,
+     "g12": 8.7,
+     "state": 4.5
+    },
+    "gambling_lifetime": {
+     "all": 15.4,
+     "g6": 6.9,
+     "g8": 18.8,
+     "g10": 22.9,
+     "g12": 11.1,
+     "state": 18.4
+    },
+    "gambling_past30": {
+     "all": 5.9,
+     "g6": 3.4,
+     "g8": 9.7,
+     "g10": 6.1,
+     "g12": 3.8,
+     "state": 8.3
+    },
+    "feel_safe_at_school": {
+     "all": 84.3,
+     "g6": 93.5,
+     "g8": 83.9,
+     "g10": 70.6,
+     "g12": 92.0,
+     "state": 83.2
+    },
+    "stayed_home_bullying": {
+     "all": 4.2,
+     "g6": 3.4,
+     "g8": 3.1,
+     "g10": 6.1,
+     "g12": 4.0,
+     "state": 5.9
+    },
+    "bullied_past_year": {
+     "all": 29.6,
+     "g6": 37.9,
+     "g8": 34.4,
+     "g10": 36.4,
+     "g12": 4.2,
+     "state": 25.7
+    },
+    "bullied_past_year_narrative": {
+     "all": 29.7,
+     "state": 25.7
+    },
+    "gambling_past_year": null,
+    "risk_protective_factors": null
+   },
+   "confidence": "high",
+   "notes": "Drive text export is truncated before Section 8 (Risk and Protective Factors, p.88+), so risk/protective scale values (e.g. Low Commitment to School, Family Attachment) are not available. gambling_past_year not reported as a single item in the profile; lifetime and past-30-day any-gambling given instead. bullied_past_year = sum of 'Yes' categories from the Frequency of bullying table (100 minus 'not bullied'); narrative overall value also captured. 'state' values are Pennsylvania 2025 statewide rates printed beside district values. 3 of 4 schools participated."
+  },
+  {
+   "district": "Berwick Area",
+   "file_id": "1Crt3Y9EyYPMojbObLNklQcuH6VkB_bed",
+   "n_surveyed": 580,
+   "participation_rate_pct": 76.9,
+   "modified_participation_rate_pct": 76.8,
+   "n_by_grade": {
+    "g6": 195,
+    "g8": 176,
+    "g10": 109,
+    "g12": 100
+   },
+   "grades_surveyed": [
+    6,
+    8,
+    10,
+    12
+   ],
+   "indicators": {
+    "lifetime_alcohol": {
+     "all": 18.4,
+     "g6": 4.2,
+     "g8": 19.3,
+     "g10": 24.5,
+     "g12": 37.4,
+     "state": 23.3
+    },
+    "lifetime_marijuana": {
+     "all": 7.7,
+     "g6": 0.0,
+     "g8": 8.2,
+     "g10": 6.7,
+     "g12": 22.7,
+     "state": 8.7
+    },
+    "lifetime_vaping": {
+     "all": 8.2,
+     "g6": 0.0,
+     "g8": 9.5,
+     "g10": 8.7,
+     "g12": 21.4,
+     "state": 11.5
+    },
+    "past30_alcohol": {
+     "all": 5.7,
+     "g6": 0.0,
+     "g8": 7.0,
+     "g10": 3.8,
+     "g12": 16.3,
+     "state": 9.1
+    },
+    "past30_marijuana": {
+     "all": 3.8,
+     "g6": 0.0,
+     "g8": 3.6,
+     "g10": 1.9,
+     "g12": 13.5,
+     "state": 4.3
+    },
+    "past30_vaping": {
+     "all": 5.0,
+     "g6": 0.0,
+     "g8": 6.5,
+     "g10": 3.8,
+     "g12": 13.5,
+     "state": 6.3
+    },
+    "lifetime_cigarettes": {
+     "all": 2.9,
+     "g6": 0.0,
+     "g8": 2.4,
+     "g10": 2.9,
+     "g12": 9.1,
+     "state": 4.8
+    },
+    "past30_cigarettes": {
+     "all": 1.4,
+     "g6": 0.0,
+     "g8": 1.8,
+     "g10": 1.9,
+     "g12": 3.1,
+     "state": 1.8
+    },
+    "past30_nicotine_pouches": {
+     "all": 2.1,
+     "g6": 0.0,
+     "g8": 3.5,
+     "g10": 1.9,
+     "g12": 4.1,
+     "state": 2.1
+    },
+    "depressive_symptoms": {
+     "all": 38.8,
+     "g6": 36.8,
+     "g8": 38.7,
+     "g10": 38.5,
+     "g12": 42.3,
+     "state": 32.8
+    },
+    "self_harm_past_year": {
+     "all": 13.8,
+     "g6": 7.8,
+     "g8": 15.2,
+     "g10": 17.5,
+     "g12": 16.5,
+     "state": 13.5
+    },
+    "so_sad_stopped_activities": {
+     "all": 27.0,
+     "g6": 22.6,
+     "g8": 25.7,
+     "g10": 30.3,
+     "g12": 31.9,
+     "state": 24.0
+    },
+    "seriously_considered_suicide": {
+     "all": 15.5,
+     "g6": 7.3,
+     "g8": 17.9,
+     "g10": 20.2,
+     "g12": 18.7,
+     "state": 13.9
+    },
+    "planned_suicide": {
+     "all": 11.9,
+     "g6": 5.8,
+     "g8": 16.0,
+     "g10": 14.1,
+     "g12": 12.4,
+     "state": 10.7
+    },
+    "attempted_suicide": {
+     "all": 5.5,
+     "g6": 2.9,
+     "g8": 9.2,
+     "g10": 5.2,
+     "g12": 4.3,
+     "state": 4.5
+    },
+    "gambling_lifetime": {
+     "all": 17.0,
+     "g6": 9.5,
+     "g8": 20.1,
+     "g10": 19.4,
+     "g12": 21.7,
+     "state": 18.4
+    },
+    "gambling_past30": {
+     "all": 7.1,
+     "g6": 2.7,
+     "g8": 11.0,
+     "g10": 6.3,
+     "g12": 9.0,
+     "state": 8.3
+    },
+    "feel_safe_at_school": {
+     "all": 75.3,
+     "g6": 87.0,
+     "g8": 59.9,
+     "g10": 79.8,
+     "g12": 78.0,
+     "state": 83.2
+    },
+    "stayed_home_bullying": {
+     "all": 7.3,
+     "g6": 7.4,
+     "g8": 11.3,
+     "g10": 7.1,
+     "g12": 1.1,
+     "state": 5.9
+    },
+    "bullied_past_year": {
+     "all": 25.8,
+     "g6": 31.6,
+     "g8": 29.1,
+     "g10": 25.3,
+     "g12": 12.0,
+     "state": 25.7
+    },
+    "bullied_past_year_narrative": {
+     "all": 25.9,
+     "state": 25.7
+    },
+    "gambling_past_year": null,
+    "risk_protective_factors": null
+   },
+   "confidence": "high",
+   "notes": "Drive text export is truncated before Section 8 (Risk and Protective Factors, p.88+), so risk/protective scale values (e.g. Low Commitment to School, Family Attachment) are not available. gambling_past_year not reported as a single item in the profile; lifetime and past-30-day any-gambling given instead. bullied_past_year = sum of 'Yes' categories from the Frequency of bullying table (100 minus 'not bullied'); narrative overall value also captured. 'state' values are Pennsylvania 2025 statewide rates printed beside district values. 2 of 3 schools participated."
+  },
+  {
+   "district": "Bloomsburg Area",
+   "file_id": "17JBc-jvpZzyA90efci0UkHdxNMbkDBPY",
+   "n_surveyed": 365,
+   "participation_rate_pct": 77.2,
+   "modified_participation_rate_pct": 76.5,
+   "n_by_grade": {
+    "g6": 144,
+    "g8": 92,
+    "g10": 63,
+    "g12": 66
+   },
+   "grades_surveyed": [
+    6,
+    8,
+    10,
+    12
+   ],
+   "indicators": {
+    "lifetime_alcohol": {
+     "all": 18.5,
+     "g6": 9.7,
+     "g8": 10.9,
+     "g10": 29.0,
+     "g12": 38.1,
+     "state": 23.3
+    },
+    "lifetime_marijuana": {
+     "all": 5.2,
+     "g6": 0.8,
+     "g8": 4.3,
+     "g10": 4.8,
+     "g12": 15.6,
+     "state": 8.7
+    },
+    "lifetime_vaping": {
+     "all": 8.4,
+     "g6": 3.8,
+     "g8": 10.0,
+     "g10": 6.5,
+     "g12": 17.2,
+     "state": 11.5
+    },
+    "past30_alcohol": {
+     "all": 8.0,
+     "g6": 2.2,
+     "g8": 5.4,
+     "g10": 9.7,
+     "g12": 22.2,
+     "state": 9.1
+    },
+    "past30_marijuana": {
+     "all": 3.2,
+     "g6": 0.0,
+     "g8": 3.3,
+     "g10": 4.8,
+     "g12": 7.8,
+     "state": 4.3
+    },
+    "past30_vaping": {
+     "all": 5.2,
+     "g6": 1.5,
+     "g8": 7.8,
+     "g10": 4.8,
+     "g12": 9.4,
+     "state": 6.3
+    },
+    "lifetime_cigarettes": {
+     "all": 3.2,
+     "g6": 1.5,
+     "g8": 3.3,
+     "g10": 1.6,
+     "g12": 7.8,
+     "state": 4.8
+    },
+    "past30_cigarettes": {
+     "all": 1.7,
+     "g6": 0.8,
+     "g8": 2.2,
+     "g10": 1.6,
+     "g12": 3.1,
+     "state": 1.8
+    },
+    "past30_nicotine_pouches": {
+     "all": 1.5,
+     "g6": 0.0,
+     "g8": 0.0,
+     "g10": 3.2,
+     "g12": 4.7,
+     "state": 2.1
+    },
+    "depressive_symptoms": {
+     "all": 36.9,
+     "g6": 42.3,
+     "g8": 37.9,
+     "g10": 23.2,
+     "g12": 38.3,
+     "state": 32.8
+    },
+    "self_harm_past_year": {
+     "all": 13.2,
+     "g6": 20.0,
+     "g8": 15.1,
+     "g10": 5.2,
+     "g12": 5.2,
+     "state": 13.5
+    },
+    "so_sad_stopped_activities": {
+     "all": 21.8,
+     "g6": 21.7,
+     "g8": 25.0,
+     "g10": 18.6,
+     "g12": 20.3,
+     "state": 24.0
+    },
+    "seriously_considered_suicide": {
+     "all": 12.8,
+     "g6": 11.1,
+     "g8": 14.9,
+     "g10": 11.9,
+     "g12": 14.0,
+     "state": 13.9
+    },
+    "planned_suicide": {
+     "all": 11.1,
+     "g6": 11.9,
+     "g8": 11.4,
+     "g10": 8.5,
+     "g12": 12.1,
+     "state": 10.7
+    },
+    "attempted_suicide": {
+     "all": 4.6,
+     "g6": 2.5,
+     "g8": 4.5,
+     "g10": 8.6,
+     "g12": 5.2,
+     "state": 4.5
+    },
+    "gambling_lifetime": {
+     "all": 15.0,
+     "g6": 15.3,
+     "g8": 15.6,
+     "g10": 11.9,
+     "g12": 16.7,
+     "state": 18.4
+    },
+    "gambling_past30": {
+     "all": 5.8,
+     "g6": 4.9,
+     "g8": 4.4,
+     "g10": 6.8,
+     "g12": 8.5,
+     "state": 8.3
+    },
+    "feel_safe_at_school": {
+     "all": 82.4,
+     "g6": 80.0,
+     "g8": 76.5,
+     "g10": 91.2,
+     "g12": 86.7,
+     "state": 83.2
+    },
+    "stayed_home_bullying": {
+     "all": 10.3,
+     "g6": 9.8,
+     "g8": 13.5,
+     "g10": 12.1,
+     "g12": 4.9,
+     "state": 5.9
+    },
+    "bullied_past_year": {
+     "all": 30.9,
+     "g6": 37.7,
+     "g8": 31.5,
+     "g10": 28.8,
+     "g12": 18.1,
+     "state": 25.7
+    },
+    "bullied_past_year_narrative": {
+     "all": 30.8,
+     "state": 25.7
+    },
+    "gambling_past_year": null,
+    "risk_protective_factors": null
+   },
+   "confidence": "high",
+   "notes": "Drive text export is truncated before Section 8 (Risk and Protective Factors, p.88+), so risk/protective scale values (e.g. Low Commitment to School, Family Attachment) are not available. gambling_past_year not reported as a single item in the profile; lifetime and past-30-day any-gambling given instead. bullied_past_year = sum of 'Yes' categories from the Frequency of bullying table (100 minus 'not bullied'); narrative overall value also captured. 'state' values are Pennsylvania 2025 statewide rates printed beside district values. 2 of 3 schools participated."
+  },
+  {
+   "district": "Central Columbia",
+   "file_id": "19V0xtK2eCBkZklS0fUSvTkML38qL7W5x",
+   "n_surveyed": 499,
+   "participation_rate_pct": 80.7,
+   "modified_participation_rate_pct": 80.7,
+   "n_by_grade": {
+    "g6": 146,
+    "g8": 146,
+    "g10": 136,
+    "g12": 71
+   },
+   "grades_surveyed": [
+    6,
+    8,
+    10,
+    12
+   ],
+   "indicators": {
+    "lifetime_alcohol": {
+     "all": 37.1,
+     "g6": 15.4,
+     "g8": 33.6,
+     "g10": 51.5,
+     "g12": 58.8,
+     "state": 23.3
+    },
+    "lifetime_marijuana": {
+     "all": 12.9,
+     "g6": 2.3,
+     "g8": 10.9,
+     "g10": 17.6,
+     "g12": 27.9,
+     "state": 8.7
+    },
+    "lifetime_vaping": {
+     "all": 17.3,
+     "g6": 3.7,
+     "g8": 14.3,
+     "g10": 28.7,
+     "g12": 27.9,
+     "state": 11.5
+    },
+    "past30_alcohol": {
+     "all": 15.7,
+     "g6": 5.9,
+     "g8": 14.3,
+     "g10": 21.3,
+     "g12": 26.9,
+     "state": 9.1
+    },
+    "past30_marijuana": {
+     "all": 5.5,
+     "g6": 0.8,
+     "g8": 3.6,
+     "g10": 8.9,
+     "g12": 11.9,
+     "state": 4.3
+    },
+    "past30_vaping": {
+     "all": 9.8,
+     "g6": 3.7,
+     "g8": 7.9,
+     "g10": 14.7,
+     "g12": 16.4,
+     "state": 6.3
+    },
+    "lifetime_cigarettes": {
+     "all": 8.5,
+     "g6": 2.2,
+     "g8": 4.3,
+     "g10": 16.9,
+     "g12": 13.0,
+     "state": 4.8
+    },
+    "past30_cigarettes": {
+     "all": 3.5,
+     "g6": 2.2,
+     "g8": 2.2,
+     "g10": 4.4,
+     "g12": 7.4,
+     "state": 1.8
+    },
+    "past30_nicotine_pouches": {
+     "all": 5.4,
+     "g6": 0.0,
+     "g8": 5.0,
+     "g10": 10.3,
+     "g12": 7.4,
+     "state": 2.1
+    },
+    "depressive_symptoms": {
+     "all": 38.4,
+     "g6": 40.2,
+     "g8": 50.8,
+     "g10": 30.5,
+     "g12": 26.6,
+     "state": 32.8
+    },
+    "self_harm_past_year": {
+     "all": 17.9,
+     "g6": 19.0,
+     "g8": 22.2,
+     "g10": 13.4,
+     "g12": 16.7,
+     "state": 13.5
+    },
+    "so_sad_stopped_activities": {
+     "all": 26.5,
+     "g6": 24.3,
+     "g8": 34.1,
+     "g10": 22.5,
+     "g12": 23.4,
+     "state": 24.0
+    },
+    "seriously_considered_suicide": {
+     "all": 19.2,
+     "g6": 16.0,
+     "g8": 28.1,
+     "g10": 12.3,
+     "g12": 21.9,
+     "state": 13.9
+    },
+    "planned_suicide": {
+     "all": 14.6,
+     "g6": 13.1,
+     "g8": 21.0,
+     "g10": 10.9,
+     "g12": 12.5,
+     "state": 10.7
+    },
+    "attempted_suicide": {
+     "all": 5.9,
+     "g6": 2.8,
+     "g8": 12.4,
+     "g10": 2.3,
+     "g12": 6.3,
+     "state": 4.5
+    },
+    "gambling_lifetime": {
+     "all": 21.9,
+     "g6": 10.8,
+     "g8": 25.8,
+     "g10": 27.1,
+     "g12": 22.7,
+     "state": 18.4
+    },
+    "gambling_past30": {
+     "all": 13.3,
+     "g6": 4.6,
+     "g8": 18.8,
+     "g10": 15.7,
+     "g12": 12.3,
+     "state": 8.3
+    },
+    "feel_safe_at_school": {
+     "all": 87.7,
+     "g6": 91.8,
+     "g8": 83.6,
+     "g10": 89.8,
+     "g12": 84.4,
+     "state": 83.2
+    },
+    "stayed_home_bullying": {
+     "all": 10.8,
+     "g6": 7.1,
+     "g8": 17.9,
+     "g10": 7.9,
+     "g12": 9.2,
+     "state": 5.9
+    },
+    "bullied_past_year": {
+     "all": 36.9,
+     "g6": 41.9,
+     "g8": 43.6,
+     "g10": 29.7,
+     "g12": 29.7,
+     "state": 25.7
+    },
+    "bullied_past_year_narrative": {
+     "all": 37.0,
+     "state": 25.7
+    },
+    "gambling_past_year": null,
+    "risk_protective_factors": null
+   },
+   "confidence": "high",
+   "notes": "Drive text export is truncated before Section 8 (Risk and Protective Factors, p.88+), so risk/protective scale values (e.g. Low Commitment to School, Family Attachment) are not available. gambling_past_year not reported as a single item in the profile; lifetime and past-30-day any-gambling given instead. bullied_past_year = sum of 'Yes' categories from the Frequency of bullying table (100 minus 'not bullied'); narrative overall value also captured. 'state' values are Pennsylvania 2025 statewide rates printed beside district values. 2 of 2 schools participated."
+  },
+  {
+   "district": "Danville Area",
+   "file_id": "14bdRLQ5LcFqintNDDV09igAEoId7wSjA",
+   "n_surveyed": 532,
+   "participation_rate_pct": 79.0,
+   "modified_participation_rate_pct": 78.7,
+   "n_by_grade": {
+    "g6": 151,
+    "g8": 144,
+    "g10": 119,
+    "g12": 118
+   },
+   "grades_surveyed": [
+    6,
+    8,
+    10,
+    12
+   ],
+   "indicators": {
+    "lifetime_alcohol": {
+     "all": 22.1,
+     "g6": 9.5,
+     "g8": 26.4,
+     "g10": 20.3,
+     "g12": 34.5,
+     "state": 23.3
+    },
+    "lifetime_marijuana": {
+     "all": 6.0,
+     "g6": 2.1,
+     "g8": 7.0,
+     "g10": 5.2,
+     "g12": 10.5,
+     "state": 8.7
+    },
+    "lifetime_vaping": {
+     "all": 9.3,
+     "g6": 4.1,
+     "g8": 12.8,
+     "g10": 6.9,
+     "g12": 14.3,
+     "state": 11.5
+    },
+    "past30_alcohol": {
+     "all": 7.5,
+     "g6": 2.7,
+     "g8": 8.5,
+     "g10": 6.8,
+     "g12": 13.2,
+     "state": 9.1
+    },
+    "past30_marijuana": {
+     "all": 3.3,
+     "g6": 0.7,
+     "g8": 3.5,
+     "g10": 4.3,
+     "g12": 5.3,
+     "state": 4.3
+    },
+    "past30_vaping": {
+     "all": 4.7,
+     "g6": 2.7,
+     "g8": 5.0,
+     "g10": 3.4,
+     "g12": 8.1,
+     "state": 6.3
+    },
+    "lifetime_cigarettes": {
+     "all": 3.8,
+     "g6": 0.0,
+     "g8": 4.9,
+     "g10": 2.6,
+     "g12": 8.8,
+     "state": 4.8
+    },
+    "past30_cigarettes": {
+     "all": 1.7,
+     "g6": 0.0,
+     "g8": 2.8,
+     "g10": 0.9,
+     "g12": 3.5,
+     "state": 1.8
+    },
+    "past30_nicotine_pouches": {
+     "all": 1.9,
+     "g6": 0.0,
+     "g8": 2.8,
+     "g10": 0.8,
+     "g12": 4.3,
+     "state": 2.1
+    },
+    "depressive_symptoms": {
+     "all": 30.9,
+     "g6": 29.6,
+     "g8": 39.7,
+     "g10": 20.4,
+     "g12": 33.0,
+     "state": 32.8
+    },
+    "self_harm_past_year": {
+     "all": 14.5,
+     "g6": 17.9,
+     "g8": 18.5,
+     "g10": 8.0,
+     "g12": 11.7,
+     "state": 13.5
+    },
+    "so_sad_stopped_activities": {
+     "all": 24.4,
+     "g6": 24.8,
+     "g8": 29.9,
+     "g10": 13.0,
+     "g12": 30.1,
+     "state": 24.0
+    },
+    "seriously_considered_suicide": {
+     "all": 13.5,
+     "g6": 10.6,
+     "g8": 19.5,
+     "g10": 6.1,
+     "g12": 18.1,
+     "state": 13.9
+    },
+    "planned_suicide": {
+     "all": 9.6,
+     "g6": 6.5,
+     "g8": 18.0,
+     "g10": 2.6,
+     "g12": 10.6,
+     "state": 10.7
+    },
+    "attempted_suicide": {
+     "all": 3.1,
+     "g6": 1.4,
+     "g8": 6.9,
+     "g10": 1.7,
+     "g12": 2.2,
+     "state": 4.5
+    },
+    "gambling_lifetime": {
+     "all": 13.3,
+     "g6": 10.9,
+     "g8": 17.9,
+     "g10": 7.7,
+     "g12": 17.0,
+     "state": 18.4
+    },
+    "gambling_past30": {
+     "all": 4.6,
+     "g6": 5.1,
+     "g8": 6.1,
+     "g10": 1.8,
+     "g12": 5.2,
+     "state": 8.3
+    },
+    "feel_safe_at_school": {
+     "all": 86.3,
+     "g6": 85.4,
+     "g8": 79.4,
+     "g10": 90.3,
+     "g12": 92.1,
+     "state": 83.2
+    },
+    "stayed_home_bullying": {
+     "all": 7.4,
+     "g6": 8.6,
+     "g8": 15.9,
+     "g10": 1.7,
+     "g12": 1.0,
+     "state": 5.9
+    },
+    "bullied_past_year": {
+     "all": 29.4,
+     "g6": 42.1,
+     "g8": 36.6,
+     "g10": 15.5,
+     "g12": 17.6,
+     "state": 25.7
+    },
+    "bullied_past_year_narrative": {
+     "all": 29.4,
+     "state": 25.7
+    },
+    "gambling_past_year": null,
+    "risk_protective_factors": null
+   },
+   "confidence": "high",
+   "notes": "Drive text export is truncated before Section 8 (Risk and Protective Factors, p.88+), so risk/protective scale values (e.g. Low Commitment to School, Family Attachment) are not available. gambling_past_year not reported as a single item in the profile; lifetime and past-30-day any-gambling given instead. bullied_past_year = sum of 'Yes' categories from the Frequency of bullying table (100 minus 'not bullied'); narrative overall value also captured. 'state' values are Pennsylvania 2025 statewide rates printed beside district values. 2 of 3 schools participated."
+  },
+  {
+   "district": "Lewisburg Area",
+   "file_id": "1hGXE4GxCqauDheiO9sqie0Ziwru5F6M5",
+   "n_surveyed": 394,
+   "participation_rate_pct": 70.6,
+   "modified_participation_rate_pct": 70.5,
+   "n_by_grade": {
+    "g6": 140,
+    "g8": 120,
+    "g10": 83,
+    "g12": 51
+   },
+   "grades_surveyed": [
+    6,
+    8,
+    10,
+    12
+   ],
+   "indicators": {
+    "lifetime_alcohol": {
+     "all": 21.7,
+     "g6": 9.3,
+     "g8": 26.3,
+     "g10": 22.2,
+     "g12": 46.3,
+     "state": 23.3
+    },
+    "lifetime_marijuana": {
+     "all": 4.0,
+     "g6": 0.8,
+     "g8": 2.5,
+     "g10": 2.8,
+     "g12": 19.5,
+     "state": 8.7
+    },
+    "lifetime_vaping": {
+     "all": 4.8,
+     "g6": 2.4,
+     "g8": 5.0,
+     "g10": 5.6,
+     "g12": 9.8,
+     "state": 11.5
+    },
+    "past30_alcohol": {
+     "all": 4.7,
+     "g6": 3.9,
+     "g8": 4.2,
+     "g10": 5.6,
+     "g12": 7.3,
+     "state": 9.1
+    },
+    "past30_marijuana": {
+     "all": 0.3,
+     "g6": 0.0,
+     "g8": 0.8,
+     "g10": 0.0,
+     "g12": 0.0,
+     "state": 4.3
+    },
+    "past30_vaping": {
+     "all": 2.0,
+     "g6": 0.0,
+     "g8": 4.2,
+     "g10": 2.8,
+     "g12": 0.0,
+     "state": 6.3
+    },
+    "lifetime_cigarettes": {
+     "all": 0.8,
+     "g6": 0.0,
+     "g8": 1.7,
+     "g10": 1.4,
+     "g12": 0.0,
+     "state": 4.8
+    },
+    "past30_cigarettes": {
+     "all": 0.3,
+     "g6": 0.0,
+     "g8": 0.8,
+     "g10": 0.0,
+     "g12": 0.0,
+     "state": 1.8
+    },
+    "past30_nicotine_pouches": {
+     "all": 1.4,
+     "g6": 0.8,
+     "g8": 0.8,
+     "g10": 4.2,
+     "g12": 0.0,
+     "state": 2.1
+    },
+    "depressive_symptoms": {
+     "all": 30.8,
+     "g6": 28.9,
+     "g8": 31.4,
+     "g10": 30.4,
+     "g12": 36.4,
+     "state": 32.8
+    },
+    "self_harm_past_year": {
+     "all": 13.8,
+     "g6": 13.0,
+     "g8": 12.2,
+     "g10": 15.3,
+     "g12": 19.4,
+     "state": 13.5
+    },
+    "so_sad_stopped_activities": {
+     "all": 20.5,
+     "g6": 12.4,
+     "g8": 24.1,
+     "g10": 27.9,
+     "g12": 23.5,
+     "state": 24.0
+    },
+    "seriously_considered_suicide": {
+     "all": 14.5,
+     "g6": 12.6,
+     "g8": 13.8,
+     "g10": 19.7,
+     "g12": 14.7,
+     "state": 13.9
+    },
+    "planned_suicide": {
+     "all": 11.8,
+     "g6": 10.1,
+     "g8": 10.3,
+     "g10": 9.8,
+     "g12": 26.5,
+     "state": 10.7
+    },
+    "attempted_suicide": {
+     "all": 4.8,
+     "g6": 5.8,
+     "g8": 2.6,
+     "g10": 8.2,
+     "g12": 2.9,
+     "state": 4.5
+    },
+    "gambling_lifetime": {
+     "all": 17.2,
+     "g6": 12.7,
+     "g8": 17.9,
+     "g10": 27.9,
+     "g12": 11.8,
+     "state": 18.4
+    },
+    "gambling_past30": {
+     "all": 4.0,
+     "g6": 0.8,
+     "g8": 7.9,
+     "g10": 4.9,
+     "g12": 0.0,
+     "state": 8.3
+    },
+    "feel_safe_at_school": {
+     "all": 92.6,
+     "g6": 91.5,
+     "g8": 94.6,
+     "g10": 87.9,
+     "g12": 97.1,
+     "state": 83.2
+    },
+    "stayed_home_bullying": {
+     "all": 8.3,
+     "g6": 7.4,
+     "g8": 12.6,
+     "g10": 6.6,
+     "g12": 0.0,
+     "state": 5.9
+    },
+    "bullied_past_year": {
+     "all": 30.0,
+     "g6": 33.3,
+     "g8": 35.6,
+     "g10": 23.3,
+     "g12": 11.5,
+     "state": 25.7
+    },
+    "bullied_past_year_narrative": {
+     "all": 30.1,
+     "state": 25.7
+    },
+    "gambling_past_year": null,
+    "risk_protective_factors": null
+   },
+   "confidence": "high",
+   "notes": "Drive text export is truncated before Section 8 (Risk and Protective Factors, p.88+), so risk/protective scale values (e.g. Low Commitment to School, Family Attachment) are not available. gambling_past_year not reported as a single item in the profile; lifetime and past-30-day any-gambling given instead. bullied_past_year = sum of 'Yes' categories from the Frequency of bullying table (100 minus 'not bullied'); narrative overall value also captured. 'state' values are Pennsylvania 2025 statewide rates printed beside district values. 2 of 3 schools participated."
+  },
+  {
+   "district": "Midd-West",
+   "file_id": "1_rMZL-SCjh3UIaOZ34YaeVxZVnPR00UQ",
+   "n_surveyed": 420,
+   "participation_rate_pct": 70.6,
+   "modified_participation_rate_pct": 70.0,
+   "n_by_grade": {
+    "g6": 139,
+    "g8": 145,
+    "g10": 104,
+    "g12": 32
+   },
+   "grades_surveyed": [
+    6,
+    8,
+    10,
+    12
+   ],
+   "indicators": {
+    "lifetime_alcohol": {
+     "all": 22.3,
+     "g6": 14.5,
+     "g8": 25.5,
+     "g10": 23.1,
+     "g12": 38.7,
+     "state": 23.3
+    },
+    "lifetime_marijuana": {
+     "all": 5.0,
+     "g6": 1.5,
+     "g8": 6.6,
+     "g10": 5.8,
+     "g12": 9.7,
+     "state": 8.7
+    },
+    "lifetime_vaping": {
+     "all": 11.9,
+     "g6": 7.6,
+     "g8": 16.9,
+     "g10": 10.6,
+     "g12": 12.9,
+     "state": 11.5
+    },
+    "past30_alcohol": {
+     "all": 7.4,
+     "g6": 5.3,
+     "g8": 9.5,
+     "g10": 6.7,
+     "g12": 9.7,
+     "state": 9.1
+    },
+    "past30_marijuana": {
+     "all": 2.2,
+     "g6": 0.0,
+     "g8": 2.2,
+     "g10": 3.9,
+     "g12": 6.5,
+     "state": 4.3
+    },
+    "past30_vaping": {
+     "all": 7.2,
+     "g6": 5.3,
+     "g8": 9.6,
+     "g10": 6.7,
+     "g12": 6.5,
+     "state": 6.3
+    },
+    "lifetime_cigarettes": {
+     "all": 6.5,
+     "g6": 3.8,
+     "g8": 7.3,
+     "g10": 6.8,
+     "g12": 12.9,
+     "state": 4.8
+    },
+    "past30_cigarettes": {
+     "all": 3.0,
+     "g6": 0.8,
+     "g8": 4.4,
+     "g10": 2.9,
+     "g12": 6.5,
+     "state": 1.8
+    },
+    "past30_nicotine_pouches": {
+     "all": 3.0,
+     "g6": 0.8,
+     "g8": 2.9,
+     "g10": 5.8,
+     "g12": 3.2,
+     "state": 2.1
+    },
+    "depressive_symptoms": {
+     "all": 41.3,
+     "g6": 48.7,
+     "g8": 37.5,
+     "g10": 40.8,
+     "g12": 30.0,
+     "state": 32.8
+    },
+    "self_harm_past_year": {
+     "all": 16.3,
+     "g6": 17.1,
+     "g8": 19.8,
+     "g10": 11.0,
+     "g12": 17.9,
+     "state": 13.5
+    },
+    "so_sad_stopped_activities": {
+     "all": 30.5,
+     "g6": 41.0,
+     "g8": 28.2,
+     "g10": 22.0,
+     "g12": 27.6,
+     "state": 24.0
+    },
+    "seriously_considered_suicide": {
+     "all": 21.5,
+     "g6": 20.3,
+     "g8": 28.7,
+     "g10": 17.2,
+     "g12": 10.3,
+     "state": 13.9
+    },
+    "planned_suicide": {
+     "all": 17.4,
+     "g6": 16.1,
+     "g8": 25.4,
+     "g10": 13.1,
+     "g12": 3.6,
+     "state": 10.7
+    },
+    "attempted_suicide": {
+     "all": 5.8,
+     "g6": 4.3,
+     "g8": 8.4,
+     "g10": 6.1,
+     "g12": 0.0,
+     "state": 4.5
+    },
+    "gambling_lifetime": {
+     "all": 18.2,
+     "g6": 18.9,
+     "g8": 18.9,
+     "g10": 12.9,
+     "g12": 32.1,
+     "state": 18.4
+    },
+    "gambling_past30": {
+     "all": 8.5,
+     "g6": 8.4,
+     "g8": 9.2,
+     "g10": 5.1,
+     "g12": 18.5,
+     "state": 8.3
+    },
+    "feel_safe_at_school": {
+     "all": 77.5,
+     "g6": 72.0,
+     "g8": 75.2,
+     "g10": 85.1,
+     "g12": 82.8,
+     "state": 83.2
+    },
+    "stayed_home_bullying": {
+     "all": 11.2,
+     "g6": 13.7,
+     "g8": 14.3,
+     "g10": 6.0,
+     "g12": 6.5,
+     "state": 5.9
+    },
+    "bullied_past_year": {
+     "all": 37.0,
+     "g6": 49.2,
+     "g8": 34.9,
+     "g10": 29.7,
+     "g12": 23.4,
+     "state": 25.7
+    },
+    "bullied_past_year_narrative": {
+     "all": 37.0,
+     "state": 25.7
+    },
+    "gambling_past_year": null,
+    "risk_protective_factors": null
+   },
+   "confidence": "high",
+   "notes": "Drive text export is truncated before Section 8 (Risk and Protective Factors, p.88+), so risk/protective scale values (e.g. Low Commitment to School, Family Attachment) are not available. gambling_past_year not reported as a single item in the profile; lifetime and past-30-day any-gambling given instead. bullied_past_year = sum of 'Yes' categories from the Frequency of bullying table (100 minus 'not bullied'); narrative overall value also captured. 'state' values are Pennsylvania 2025 statewide rates printed beside district values. 2 of 3 schools participated."
+  },
+  {
+   "district": "Mifflinburg Area",
+   "file_id": "1TQjmMwud6lBY0TX_tFbgeCRImTAyqGmq",
+   "n_surveyed": 339,
+   "participation_rate_pct": 61.2,
+   "modified_participation_rate_pct": 61.1,
+   "n_by_grade": {
+    "g6": 114,
+    "g8": 107,
+    "g10": 100,
+    "g12": 18
+   },
+   "grades_surveyed": [
+    6,
+    8,
+    10,
+    12
+   ],
+   "indicators": {
+    "lifetime_alcohol": {
+     "all": 22.3,
+     "g6": 10.8,
+     "g8": 24.5,
+     "g10": 33.0,
+     "g12": null,
+     "state": 23.3
+    },
+    "lifetime_marijuana": {
+     "all": 5.2,
+     "g6": 1.8,
+     "g8": 2.8,
+     "g10": 10.3,
+     "g12": null,
+     "state": 8.7
+    },
+    "lifetime_vaping": {
+     "all": 6.3,
+     "g6": 0.9,
+     "g8": 4.7,
+     "g10": 14.4,
+     "g12": null,
+     "state": 11.5
+    },
+    "past30_alcohol": {
+     "all": 6.0,
+     "g6": 2.7,
+     "g8": 5.7,
+     "g10": 10.3,
+     "g12": null,
+     "state": 9.1
+    },
+    "past30_marijuana": {
+     "all": 2.4,
+     "g6": 0.9,
+     "g8": 0.9,
+     "g10": 5.2,
+     "g12": null,
+     "state": 4.3
+    },
+    "past30_vaping": {
+     "all": 3.9,
+     "g6": 0.9,
+     "g8": 2.8,
+     "g10": 9.3,
+     "g12": null,
+     "state": 6.3
+    },
+    "lifetime_cigarettes": {
+     "all": 5.5,
+     "g6": 1.8,
+     "g8": 2.9,
+     "g10": 13.4,
+     "g12": null,
+     "state": 4.8
+    },
+    "past30_cigarettes": {
+     "all": 2.7,
+     "g6": 1.8,
+     "g8": 1.0,
+     "g10": 6.2,
+     "g12": null,
+     "state": 1.8
+    },
+    "past30_nicotine_pouches": {
+     "all": 2.1,
+     "g6": 0.9,
+     "g8": 1.9,
+     "g10": 4.1,
+     "g12": null,
+     "state": 2.1
+    },
+    "depressive_symptoms": {
+     "all": 37.7,
+     "g6": 40.6,
+     "g8": 33.3,
+     "g10": 37.1,
+     "g12": null,
+     "state": 32.8
+    },
+    "self_harm_past_year": {
+     "all": 19.1,
+     "g6": 13.7,
+     "g8": 21.9,
+     "g10": 20.8,
+     "g12": null,
+     "state": 13.5
+    },
+    "so_sad_stopped_activities": {
+     "all": 29.2,
+     "g6": 27.1,
+     "g8": 26.4,
+     "g10": 32.6,
+     "g12": null,
+     "state": 24.0
+    },
+    "seriously_considered_suicide": {
+     "all": 18.7,
+     "g6": 14.4,
+     "g8": 21.7,
+     "g10": 17.9,
+     "g12": null,
+     "state": 13.9
+    },
+    "planned_suicide": {
+     "all": 11.4,
+     "g6": 9.4,
+     "g8": 11.3,
+     "g10": 14.7,
+     "g12": null,
+     "state": 10.7
+    },
+    "attempted_suicide": {
+     "all": 6.7,
+     "g6": 3.1,
+     "g8": 8.5,
+     "g10": 9.5,
+     "g12": null,
+     "state": 4.5
+    },
+    "gambling_lifetime": {
+     "all": 14.0,
+     "g6": 11.5,
+     "g8": 18.1,
+     "g10": 11.5,
+     "g12": null,
+     "state": 18.4
+    },
+    "gambling_past30": {
+     "all": 4.7,
+     "g6": 5.8,
+     "g8": 5.7,
+     "g10": 1.0,
+     "g12": null,
+     "state": 8.3
+    },
+    "feel_safe_at_school": {
+     "all": 87.2,
+     "g6": 95.2,
+     "g8": 88.3,
+     "g10": 76.8,
+     "g12": null,
+     "state": 83.2
+    },
+    "stayed_home_bullying": {
+     "all": 8.7,
+     "g6": 7.9,
+     "g8": 9.4,
+     "g10": 7.3,
+     "g12": null,
+     "state": 5.9
+    },
+    "bullied_past_year": {
+     "all": 35.2,
+     "g6": 38.6,
+     "g8": 34.0,
+     "g10": 33.3,
+     "g12": null,
+     "state": 25.7
+    },
+    "bullied_past_year_narrative": {
+     "all": 35.2,
+     "state": 25.7
+    },
+    "gambling_past_year": null,
+    "risk_protective_factors": null
+   },
+   "confidence": "medium",
+   "notes": "Drive text export is truncated before Section 8 (Risk and Protective Factors, p.88+), so risk/protective scale values (e.g. Low Commitment to School, Family Attachment) are not available. gambling_past_year not reported as a single item in the profile; lifetime and past-30-day any-gambling given instead. bullied_past_year = sum of 'Yes' categories from the Frequency of bullying table (100 minus 'not bullied'); narrative overall value also captured. 'state' values are Pennsylvania 2025 statewide rates printed beside district values. 2 of 3 schools participated. g12 row is omitted from every indicator table in this report (likely small-N suppression; 18 surveys), so g12 values are null while 'all' includes them."
+  },
+  {
+   "district": "Millville Area",
+   "file_id": "1IGtUeFSElmk49I0unhtCCFZBNuYYuTPj",
+   "n_surveyed": 138,
+   "participation_rate_pct": 81.7,
+   "modified_participation_rate_pct": 81.2,
+   "n_by_grade": {
+    "g6": 47,
+    "g8": 32,
+    "g10": 39,
+    "g12": 20
+   },
+   "grades_surveyed": [
+    6,
+    8,
+    10,
+    12
+   ],
+   "indicators": {
+    "lifetime_alcohol": {
+     "all": 29.9,
+     "g6": 22.7,
+     "g8": 18.8,
+     "g10": 31.6,
+     "g12": null,
+     "state": 23.3
+    },
+    "lifetime_marijuana": {
+     "all": 14.9,
+     "g6": 2.3,
+     "g8": 6.3,
+     "g10": 10.5,
+     "g12": null,
+     "state": 8.7
+    },
+    "lifetime_vaping": {
+     "all": 10.6,
+     "g6": 2.3,
+     "g8": 0.0,
+     "g10": 5.4,
+     "g12": null,
+     "state": 11.5
+    },
+    "past30_alcohol": {
+     "all": 15.8,
+     "g6": 4.7,
+     "g8": 6.3,
+     "g10": 18.4,
+     "g12": null,
+     "state": 9.1
+    },
+    "past30_marijuana": {
+     "all": 7.5,
+     "g6": 0.0,
+     "g8": 3.1,
+     "g10": 5.3,
+     "g12": null,
+     "state": 4.3
+    },
+    "past30_vaping": {
+     "all": 8.3,
+     "g6": 2.3,
+     "g8": 0.0,
+     "g10": 5.4,
+     "g12": null,
+     "state": 6.3
+    },
+    "lifetime_cigarettes": {
+     "all": 6.9,
+     "g6": 2.3,
+     "g8": 3.1,
+     "g10": 2.7,
+     "g12": null,
+     "state": 4.8
+    },
+    "past30_cigarettes": {
+     "all": 5.3,
+     "g6": 0.0,
+     "g8": 3.1,
+     "g10": 0.0,
+     "g12": null,
+     "state": 1.8
+    },
+    "past30_nicotine_pouches": {
+     "all": 5.3,
+     "g6": 0.0,
+     "g8": 3.1,
+     "g10": 2.6,
+     "g12": null,
+     "state": 2.1
+    },
+    "depressive_symptoms": {
+     "all": 32.0,
+     "g6": 19.0,
+     "g8": 35.5,
+     "g10": 35.1,
+     "g12": null,
+     "state": 32.8
+    },
+    "self_harm_past_year": {
+     "all": 11.0,
+     "g6": 4.8,
+     "g8": 22.6,
+     "g10": 2.8,
+     "g12": null,
+     "state": 13.5
+    },
+    "so_sad_stopped_activities": {
+     "all": 27.2,
+     "g6": 17.1,
+     "g8": 26.7,
+     "g10": 31.4,
+     "g12": null,
+     "state": 24.0
+    },
+    "seriously_considered_suicide": {
+     "all": 12.1,
+     "g6": 4.9,
+     "g8": 16.7,
+     "g10": 8.6,
+     "g12": null,
+     "state": 13.9
+    },
+    "planned_suicide": {
+     "all": 9.6,
+     "g6": 4.9,
+     "g8": 20.0,
+     "g10": 0.0,
+     "g12": null,
+     "state": 10.7
+    },
+    "attempted_suicide": {
+     "all": 3.2,
+     "g6": 2.5,
+     "g8": 3.3,
+     "g10": 2.9,
+     "g12": null,
+     "state": 4.5
+    },
+    "gambling_lifetime": {
+     "all": 22.5,
+     "g6": 18.6,
+     "g8": 6.7,
+     "g10": 32.4,
+     "g12": null,
+     "state": 18.4
+    },
+    "gambling_past30": {
+     "all": 14.1,
+     "g6": 9.5,
+     "g8": 0.0,
+     "g10": 24.3,
+     "g12": null,
+     "state": 8.3
+    },
+    "feel_safe_at_school": {
+     "all": 71.4,
+     "g6": 88.1,
+     "g8": 66.7,
+     "g10": 58.3,
+     "g12": null,
+     "state": 83.2
+    },
+    "stayed_home_bullying": {
+     "all": 14.6,
+     "g6": 7.9,
+     "g8": 20.0,
+     "g10": 16.7,
+     "g12": null,
+     "state": 5.9
+    },
+    "bullied_past_year": {
+     "all": 38.1,
+     "g6": 42.5,
+     "g8": 50.0,
+     "g10": 24.3,
+     "g12": null,
+     "state": 25.7
+    },
+    "bullied_past_year_narrative": {
+     "all": 38.1,
+     "state": 25.7
+    },
+    "gambling_past_year": null,
+    "risk_protective_factors": null
+   },
+   "confidence": "medium",
+   "notes": "Drive text export is truncated before Section 8 (Risk and Protective Factors, p.88+), so risk/protective scale values (e.g. Low Commitment to School, Family Attachment) are not available. gambling_past_year not reported as a single item in the profile; lifetime and past-30-day any-gambling given instead. bullied_past_year = sum of 'Yes' categories from the Frequency of bullying table (100 minus 'not bullied'); narrative overall value also captured. 'state' values are Pennsylvania 2025 statewide rates printed beside district values. 2 of 3 schools participated. g12 row is omitted from every indicator table in this report (likely small-N suppression; 20 surveys), so g12 values are null while 'all' includes them."
+  }
+ ]
+}

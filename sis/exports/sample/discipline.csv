@@ -1,0 +1,553 @@
+student_number,incident_date,infraction,location,time_of_day,action_taken,minor
+14964,2026-08-25,disruption,hallway,morning,detention,N
+15061,2026-08-25,disruption,classroom,dismissal,loss of privilege,Y
+15321,2026-08-25,defiance,classroom,dismissal,referral to counselor,N
+28804,2026-08-25,verbal,classroom,afternoon,detention,Y
+28888,2026-08-25,disruption,playground,dismissal,conference,Y
+34052,2026-08-25,physical,hallway,after lunch,parent contact,N
+34078,2026-08-25,tardy,cafeteria,after lunch,referral to counselor,Y
+34306,2026-08-25,physical,cafeteria,after lunch,detention,N
+34671,2026-08-25,tardy,hallway,after lunch,detention,Y
+34847,2026-08-25,verbal,classroom,morning,parent contact,Y
+34915,2026-08-25,defiance,bus,mid-day,conference,N
+35147,2026-08-25,disruption,cafeteria,after lunch,parent contact,Y
+35158,2026-08-25,disruption,hallway,after lunch,detention,Y
+35403,2026-08-25,verbal,cafeteria,after lunch,parent contact,Y
+35403,2026-08-25,disruption,cafeteria,after lunch,referral to counselor,Y
+15210,2026-08-26,verbal,playground,mid-day,in-school suspension,Y
+15510,2026-08-26,disruption,playground,afternoon,parent contact,N
+28887,2026-08-26,disruption,bus,mid-day,detention,Y
+34032,2026-08-26,defiance,classroom,mid-day,in-school suspension,N
+34131,2026-08-26,disruption,hallway,mid-day,conference,Y
+34137,2026-08-26,verbal,bus,dismissal,parent contact,Y
+34487,2026-08-26,verbal,hallway,mid-day,conference,Y
+35123,2026-08-26,verbal,bus,dismissal,detention,N
+35206,2026-08-26,disruption,hallway,afternoon,referral to counselor,Y
+35288,2026-08-26,verbal,hallway,afternoon,parent contact,Y
+15250,2026-08-27,verbal,bus,mid-day,detention,N
+15372,2026-08-27,tardy,bus,dismissal,loss of privilege,Y
+28684,2026-08-27,physical,hallway,dismissal,in-school suspension,N
+34128,2026-08-27,tardy,bus,dismissal,detention,N
+34177,2026-08-27,tardy,classroom,morning,conference,Y
+34514,2026-08-27,tardy,bus,afternoon,parent contact,Y
+34603,2026-08-27,physical,cafeteria,after lunch,loss of privilege,N
+34661,2026-08-27,verbal,bus,morning,referral to counselor,N
+34818,2026-08-27,technology,classroom,mid-day,in-school suspension,N
+34863,2026-08-27,physical,classroom,afternoon,conference,N
+35054,2026-08-27,disruption,classroom,mid-day,parent contact,Y
+35279,2026-08-27,tardy,hallway,after lunch,parent contact,N
+35298,2026-08-27,tardy,classroom,morning,loss of privilege,Y
+35319,2026-08-27,tardy,classroom,morning,loss of privilege,Y
+35380,2026-08-27,verbal,hallway,dismissal,parent contact,Y
+35380,2026-08-27,defiance,bus,mid-day,detention,Y
+35403,2026-08-27,tardy,hallway,after lunch,detention,N
+35460,2026-08-27,disruption,hallway,after lunch,loss of privilege,Y
+14964,2026-08-28,verbal,bus,mid-day,loss of privilege,Y
+14971,2026-08-28,disruption,hallway,mid-day,loss of privilege,N
+14991,2026-08-28,defiance,hallway,mid-day,parent contact,Y
+15369,2026-08-28,disruption,classroom,mid-day,referral to counselor,N
+28890,2026-08-28,physical,playground,morning,conference,N
+28907,2026-08-28,defiance,classroom,mid-day,parent contact,N
+28966,2026-08-28,disruption,bus,mid-day,loss of privilege,Y
+34012,2026-08-28,verbal,cafeteria,after lunch,parent contact,Y
+34104,2026-08-28,defiance,hallway,after lunch,loss of privilege,Y
+34376,2026-08-28,defiance,playground,mid-day,detention,Y
+34406,2026-08-28,tardy,classroom,mid-day,in-school suspension,Y
+34495,2026-08-28,defiance,hallway,morning,parent contact,Y
+34568,2026-08-28,verbal,hallway,mid-day,parent contact,Y
+34621,2026-08-28,verbal,cafeteria,after lunch,detention,Y
+34970,2026-08-28,disruption,hallway,afternoon,parent contact,N
+35029,2026-08-28,verbal,classroom,dismissal,referral to counselor,N
+35314,2026-08-28,disruption,classroom,afternoon,loss of privilege,N
+35403,2026-08-28,physical,hallway,after lunch,conference,N
+14874,2026-08-31,technology,classroom,mid-day,parent contact,N
+14964,2026-08-31,disruption,classroom,dismissal,detention,N
+15106,2026-08-31,physical,classroom,mid-day,detention,N
+15508,2026-08-31,disruption,playground,mid-day,detention,Y
+28630,2026-08-31,verbal,classroom,afternoon,referral to counselor,N
+28750,2026-08-31,verbal,classroom,dismissal,conference,N
+28887,2026-08-31,tardy,playground,mid-day,loss of privilege,Y
+28887,2026-08-31,defiance,classroom,afternoon,referral to counselor,N
+34103,2026-08-31,tardy,hallway,after lunch,conference,Y
+34274,2026-08-31,other,classroom,morning,detention,Y
+34552,2026-08-31,tardy,playground,dismissal,conference,Y
+35219,2026-08-31,defiance,playground,morning,loss of privilege,Y
+35366,2026-08-31,disruption,classroom,morning,referral to counselor,N
+14991,2026-09-01,disruption,hallway,morning,in-school suspension,Y
+15178,2026-09-01,defiance,bus,morning,in-school suspension,N
+34087,2026-09-01,defiance,classroom,mid-day,detention,Y
+34347,2026-09-01,verbal,hallway,after lunch,referral to counselor,Y
+34898,2026-09-01,physical,hallway,dismissal,detention,N
+35218,2026-09-01,tardy,classroom,afternoon,referral to counselor,N
+15127,2026-09-02,defiance,classroom,mid-day,referral to counselor,Y
+15186,2026-09-02,verbal,bus,mid-day,in-school suspension,Y
+15320,2026-09-02,disruption,hallway,mid-day,in-school suspension,Y
+15411,2026-09-02,physical,playground,morning,referral to counselor,N
+15459,2026-09-02,tardy,hallway,mid-day,conference,Y
+15510,2026-09-02,disruption,hallway,afternoon,referral to counselor,Y
+28513,2026-09-02,disruption,playground,dismissal,conference,N
+28687,2026-09-02,disruption,classroom,morning,parent contact,Y
+28854,2026-09-02,verbal,hallway,afternoon,parent contact,Y
+28887,2026-09-02,defiance,hallway,mid-day,loss of privilege,N
+29009,2026-09-02,verbal,playground,morning,referral to counselor,N
+34236,2026-09-02,disruption,cafeteria,after lunch,loss of privilege,N
+34479,2026-09-02,disruption,bus,morning,conference,N
+34849,2026-09-02,defiance,hallway,afternoon,detention,Y
+35188,2026-09-02,disruption,hallway,after lunch,detention,Y
+35289,2026-09-02,verbal,hallway,dismissal,parent contact,Y
+35403,2026-09-02,defiance,classroom,morning,conference,Y
+14874,2026-09-03,defiance,classroom,mid-day,conference,Y
+14976,2026-09-03,verbal,bus,afternoon,conference,Y
+15073,2026-09-03,verbal,classroom,dismissal,referral to counselor,N
+15121,2026-09-03,disruption,playground,afternoon,in-school suspension,Y
+15204,2026-09-03,physical,bus,morning,parent contact,N
+28710,2026-09-03,physical,bus,afternoon,referral to counselor,N
+28793,2026-09-03,defiance,classroom,dismissal,loss of privilege,Y
+28887,2026-09-03,disruption,hallway,mid-day,detention,Y
+28887,2026-09-03,verbal,classroom,dismissal,parent contact,Y
+28887,2026-09-03,defiance,hallway,mid-day,referral to counselor,Y
+34077,2026-09-03,disruption,hallway,after lunch,conference,Y
+34236,2026-09-03,verbal,cafeteria,after lunch,referral to counselor,N
+34266,2026-09-03,verbal,playground,mid-day,referral to counselor,N
+34420,2026-09-03,defiance,cafeteria,after lunch,in-school suspension,N
+34991,2026-09-03,disruption,cafeteria,after lunch,detention,N
+35003,2026-09-03,tardy,classroom,mid-day,loss of privilege,Y
+35051,2026-09-03,other,hallway,after lunch,in-school suspension,Y
+35206,2026-09-03,disruption,hallway,mid-day,loss of privilege,N
+35261,2026-09-03,disruption,bus,dismissal,detention,Y
+35279,2026-09-03,defiance,cafeteria,after lunch,referral to counselor,Y
+14874,2026-09-04,defiance,hallway,mid-day,parent contact,Y
+14980,2026-09-04,technology,bus,dismissal,detention,N
+15186,2026-09-04,tardy,hallway,afternoon,loss of privilege,Y
+15360,2026-09-04,disruption,playground,morning,conference,Y
+28529,2026-09-04,defiance,classroom,morning,referral to counselor,Y
+28824,2026-09-04,verbal,classroom,afternoon,in-school suspension,Y
+28925,2026-09-04,defiance,playground,afternoon,parent contact,Y
+28968,2026-09-04,disruption,playground,mid-day,conference,Y
+34035,2026-09-04,disruption,hallway,morning,loss of privilege,Y
+34194,2026-09-04,technology,cafeteria,after lunch,conference,Y
+34501,2026-09-04,disruption,cafeteria,after lunch,conference,Y
+34712,2026-09-04,tardy,playground,dismissal,in-school suspension,Y
+34917,2026-09-04,defiance,bus,morning,loss of privilege,Y
+35087,2026-09-04,defiance,playground,dismissal,loss of privilege,Y
+35173,2026-09-04,tardy,cafeteria,after lunch,detention,Y
+35174,2026-09-04,defiance,classroom,morning,referral to counselor,N
+35403,2026-09-04,tardy,cafeteria,after lunch,detention,N
+14871,2026-09-08,disruption,bus,mid-day,referral to counselor,N
+14874,2026-09-08,defiance,classroom,mid-day,detention,Y
+14874,2026-09-08,defiance,classroom,morning,loss of privilege,Y
+14975,2026-09-08,disruption,classroom,morning,in-school suspension,N
+15175,2026-09-08,defiance,classroom,dismissal,loss of privilege,N
+28472,2026-09-08,technology,hallway,dismissal,conference,Y
+28732,2026-09-08,verbal,playground,mid-day,conference,Y
+28887,2026-09-08,verbal,bus,dismissal,in-school suspension,Y
+28892,2026-09-08,verbal,classroom,afternoon,loss of privilege,Y
+28957,2026-09-08,physical,playground,afternoon,referral to counselor,N
+34196,2026-09-08,defiance,classroom,mid-day,conference,Y
+34236,2026-09-08,disruption,cafeteria,after lunch,conference,Y
+34236,2026-09-08,verbal,cafeteria,after lunch,referral to counselor,N
+34255,2026-09-08,physical,classroom,morning,detention,N
+34877,2026-09-08,other,hallway,after lunch,in-school suspension,N
+34970,2026-09-08,physical,hallway,after lunch,parent contact,N
+35029,2026-09-08,disruption,playground,dismissal,referral to counselor,Y
+35031,2026-09-08,tardy,playground,mid-day,in-school suspension,Y
+35075,2026-09-08,tardy,hallway,after lunch,detention,Y
+35087,2026-09-08,physical,hallway,morning,detention,N
+35403,2026-09-08,technology,classroom,mid-day,in-school suspension,N
+35403,2026-09-08,disruption,classroom,dismissal,in-school suspension,Y
+35403,2026-09-08,disruption,classroom,dismissal,referral to counselor,N
+14939,2026-09-09,defiance,playground,dismissal,in-school suspension,N
+15386,2026-09-09,verbal,classroom,morning,referral to counselor,N
+15489,2026-09-09,defiance,classroom,morning,in-school suspension,Y
+28570,2026-09-09,other,bus,afternoon,in-school suspension,N
+28727,2026-09-09,disruption,playground,dismissal,referral to counselor,N
+28883,2026-09-09,verbal,hallway,dismissal,referral to counselor,Y
+29009,2026-09-09,tardy,classroom,dismissal,detention,N
+34128,2026-09-09,disruption,hallway,dismissal,in-school suspension,N
+34309,2026-09-09,disruption,hallway,after lunch,loss of privilege,Y
+34329,2026-09-09,disruption,classroom,morning,parent contact,N
+34362,2026-09-09,disruption,bus,mid-day,in-school suspension,Y
+34375,2026-09-09,disruption,classroom,afternoon,conference,Y
+34692,2026-09-09,tardy,hallway,dismissal,referral to counselor,Y
+34842,2026-09-09,disruption,cafeteria,after lunch,loss of privilege,N
+35162,2026-09-09,disruption,bus,morning,conference,N
+35273,2026-09-09,other,bus,morning,parent contact,Y
+35403,2026-09-09,disruption,cafeteria,after lunch,in-school suspension,N
+14939,2026-09-10,physical,classroom,dismissal,in-school suspension,N
+14990,2026-09-10,disruption,classroom,mid-day,conference,Y
+15022,2026-09-10,verbal,classroom,morning,parent contact,Y
+15479,2026-09-10,defiance,classroom,mid-day,conference,Y
+28404,2026-09-10,disruption,playground,morning,conference,Y
+28452,2026-09-10,verbal,playground,mid-day,loss of privilege,Y
+28988,2026-09-10,verbal,hallway,afternoon,in-school suspension,N
+34011,2026-09-10,defiance,hallway,mid-day,referral to counselor,Y
+34194,2026-09-10,disruption,cafeteria,after lunch,in-school suspension,N
+34248,2026-09-10,other,classroom,morning,in-school suspension,Y
+34773,2026-09-10,other,classroom,mid-day,conference,N
+34773,2026-09-10,technology,playground,morning,detention,N
+34883,2026-09-10,verbal,hallway,after lunch,referral to counselor,Y
+35279,2026-09-10,defiance,playground,morning,parent contact,N
+35279,2026-09-10,disruption,hallway,after lunch,detention,N
+35383,2026-09-10,other,hallway,after lunch,conference,N
+35461,2026-09-10,disruption,classroom,dismissal,loss of privilege,Y
+35463,2026-09-10,physical,cafeteria,after lunch,parent contact,N
+14871,2026-09-11,defiance,classroom,morning,conference,Y
+14994,2026-09-11,tardy,playground,morning,conference,Y
+15158,2026-09-11,disruption,hallway,mid-day,loss of privilege,Y
+15428,2026-09-11,tardy,classroom,dismissal,loss of privilege,N
+15462,2026-09-11,disruption,classroom,mid-day,loss of privilege,Y
+28773,2026-09-11,tardy,bus,morning,conference,Y
+28887,2026-09-11,disruption,playground,afternoon,detention,Y
+28887,2026-09-11,tardy,hallway,mid-day,referral to counselor,Y
+28887,2026-09-11,defiance,bus,mid-day,conference,N
+28977,2026-09-11,physical,bus,afternoon,conference,N
+34140,2026-09-11,disruption,hallway,morning,parent contact,Y
+34428,2026-09-11,disruption,hallway,after lunch,detention,N
+34499,2026-09-11,defiance,hallway,dismissal,detention,N
+34699,2026-09-11,tardy,bus,morning,referral to counselor,Y
+34947,2026-09-11,defiance,hallway,after lunch,conference,N
+35035,2026-09-11,verbal,bus,dismissal,referral to counselor,Y
+35192,2026-09-11,disruption,classroom,afternoon,parent contact,Y
+35427,2026-09-11,tardy,classroom,morning,conference,Y
+14904,2026-09-14,physical,hallway,morning,in-school suspension,N
+15322,2026-09-14,verbal,playground,afternoon,in-school suspension,Y
+15467,2026-09-14,disruption,classroom,dismissal,referral to counselor,Y
+15510,2026-09-14,physical,hallway,afternoon,parent contact,N
+34299,2026-09-14,verbal,classroom,dismissal,referral to counselor,Y
+34352,2026-09-14,disruption,hallway,after lunch,loss of privilege,Y
+34373,2026-09-14,physical,classroom,dismissal,referral to counselor,N
+34420,2026-09-14,physical,hallway,mid-day,in-school suspension,N
+35167,2026-09-14,tardy,cafeteria,after lunch,parent contact,N
+35308,2026-09-14,technology,bus,mid-day,parent contact,Y
+35362,2026-09-14,disruption,hallway,morning,referral to counselor,Y
+35387,2026-09-14,disruption,hallway,dismissal,in-school suspension,Y
+14971,2026-09-15,physical,classroom,afternoon,loss of privilege,N
+15350,2026-09-15,verbal,classroom,afternoon,referral to counselor,Y
+15373,2026-09-15,disruption,classroom,dismissal,parent contact,Y
+15482,2026-09-15,tardy,classroom,dismissal,conference,Y
+28501,2026-09-15,technology,classroom,afternoon,parent contact,Y
+28606,2026-09-15,disruption,hallway,mid-day,parent contact,Y
+28939,2026-09-15,disruption,classroom,dismissal,parent contact,Y
+34036,2026-09-15,other,classroom,mid-day,referral to counselor,Y
+34128,2026-09-15,tardy,hallway,morning,detention,Y
+34207,2026-09-15,tardy,bus,mid-day,detention,N
+34236,2026-09-15,other,cafeteria,after lunch,referral to counselor,Y
+34236,2026-09-15,disruption,hallway,after lunch,detention,Y
+34308,2026-09-15,physical,cafeteria,after lunch,referral to counselor,N
+34719,2026-09-15,tardy,cafeteria,after lunch,parent contact,Y
+34939,2026-09-15,technology,classroom,morning,in-school suspension,Y
+35035,2026-09-15,verbal,cafeteria,after lunch,conference,Y
+35063,2026-09-15,physical,cafeteria,after lunch,in-school suspension,N
+35076,2026-09-15,disruption,cafeteria,after lunch,parent contact,Y
+35087,2026-09-15,tardy,bus,afternoon,detention,N
+35201,2026-09-15,defiance,classroom,mid-day,loss of privilege,Y
+35280,2026-09-15,physical,hallway,after lunch,detention,N
+35367,2026-09-15,verbal,playground,mid-day,referral to counselor,N
+14956,2026-09-16,defiance,hallway,dismissal,parent contact,Y
+15155,2026-09-16,defiance,hallway,morning,loss of privilege,N
+34128,2026-09-16,defiance,bus,dismissal,parent contact,N
+34415,2026-09-16,physical,classroom,morning,loss of privilege,N
+34583,2026-09-16,disruption,classroom,morning,referral to counselor,Y
+34992,2026-09-16,disruption,classroom,morning,referral to counselor,Y
+35244,2026-09-16,defiance,classroom,afternoon,referral to counselor,Y
+35391,2026-09-16,physical,hallway,after lunch,parent contact,N
+35403,2026-09-16,verbal,cafeteria,after lunch,conference,Y
+35422,2026-09-16,verbal,cafeteria,after lunch,referral to counselor,N
+15205,2026-09-17,disruption,bus,dismissal,conference,Y
+15207,2026-09-17,technology,hallway,dismissal,conference,N
+15348,2026-09-17,disruption,classroom,mid-day,referral to counselor,Y
+28534,2026-09-17,tardy,classroom,mid-day,in-school suspension,Y
+28887,2026-09-17,defiance,bus,mid-day,loss of privilege,Y
+28939,2026-09-17,technology,bus,morning,in-school suspension,N
+34135,2026-09-17,disruption,cafeteria,after lunch,detention,Y
+34338,2026-09-17,defiance,classroom,morning,referral to counselor,N
+34373,2026-09-17,disruption,bus,morning,referral to counselor,Y
+35030,2026-09-17,technology,cafeteria,after lunch,detention,Y
+35031,2026-09-17,disruption,hallway,dismissal,parent contact,Y
+35279,2026-09-17,disruption,classroom,afternoon,conference,N
+35297,2026-09-17,physical,hallway,dismissal,loss of privilege,N
+35383,2026-09-17,verbal,hallway,after lunch,parent contact,Y
+14917,2026-09-18,other,hallway,morning,in-school suspension,N
+15083,2026-09-18,disruption,bus,morning,parent contact,N
+15087,2026-09-18,disruption,classroom,mid-day,referral to counselor,Y
+15286,2026-09-18,disruption,playground,mid-day,referral to counselor,Y
+28887,2026-09-18,other,classroom,morning,in-school suspension,Y
+28887,2026-09-18,defiance,hallway,mid-day,parent contact,Y
+34171,2026-09-18,physical,hallway,after lunch,loss of privilege,N
+34782,2026-09-18,tardy,hallway,after lunch,parent contact,Y
+34890,2026-09-18,verbal,cafeteria,after lunch,referral to counselor,Y
+35218,2026-09-18,verbal,playground,dismissal,referral to counselor,N
+35439,2026-09-18,disruption,hallway,after lunch,parent contact,Y
+14874,2026-09-21,technology,playground,morning,parent contact,Y
+14921,2026-09-21,verbal,playground,dismissal,loss of privilege,Y
+15208,2026-09-21,other,bus,dismissal,in-school suspension,Y
+15457,2026-09-21,physical,classroom,afternoon,parent contact,N
+34035,2026-09-21,disruption,classroom,mid-day,conference,N
+34393,2026-09-21,defiance,playground,mid-day,detention,Y
+34635,2026-09-21,tardy,classroom,mid-day,loss of privilege,Y
+34661,2026-09-21,defiance,classroom,afternoon,detention,Y
+34701,2026-09-21,tardy,bus,mid-day,detention,Y
+34773,2026-09-21,disruption,bus,morning,detention,Y
+34860,2026-09-21,disruption,hallway,dismissal,detention,Y
+34962,2026-09-21,physical,hallway,afternoon,referral to counselor,N
+35126,2026-09-21,physical,hallway,after lunch,parent contact,N
+35409,2026-09-21,disruption,playground,afternoon,parent contact,Y
+28623,2026-09-22,verbal,classroom,afternoon,parent contact,Y
+28750,2026-09-22,tardy,bus,morning,in-school suspension,N
+28791,2026-09-22,defiance,playground,afternoon,parent contact,Y
+28887,2026-09-22,verbal,classroom,mid-day,conference,Y
+28968,2026-09-22,verbal,bus,mid-day,referral to counselor,Y
+34290,2026-09-22,disruption,hallway,mid-day,in-school suspension,Y
+34466,2026-09-22,defiance,classroom,dismissal,conference,Y
+34511,2026-09-22,defiance,cafeteria,after lunch,parent contact,N
+34837,2026-09-22,defiance,hallway,morning,referral to counselor,Y
+34988,2026-09-22,disruption,hallway,dismissal,referral to counselor,Y
+15009,2026-09-23,defiance,bus,morning,referral to counselor,Y
+28727,2026-09-23,defiance,classroom,mid-day,loss of privilege,Y
+28887,2026-09-23,verbal,bus,morning,referral to counselor,Y
+28918,2026-09-23,disruption,classroom,afternoon,referral to counselor,Y
+34068,2026-09-23,physical,bus,dismissal,detention,N
+34420,2026-09-23,disruption,cafeteria,after lunch,loss of privilege,Y
+34728,2026-09-23,disruption,cafeteria,after lunch,loss of privilege,Y
+35037,2026-09-23,disruption,classroom,afternoon,loss of privilege,Y
+35446,2026-09-23,defiance,hallway,after lunch,referral to counselor,Y
+14948,2026-09-24,verbal,bus,morning,conference,Y
+28396,2026-09-24,disruption,playground,morning,loss of privilege,Y
+28511,2026-09-24,tardy,classroom,morning,loss of privilege,Y
+28804,2026-09-24,defiance,hallway,afternoon,loss of privilege,Y
+28887,2026-09-24,disruption,classroom,afternoon,conference,Y
+28901,2026-09-24,disruption,playground,morning,conference,Y
+34135,2026-09-24,verbal,cafeteria,after lunch,in-school suspension,Y
+34241,2026-09-24,disruption,cafeteria,after lunch,conference,N
+34898,2026-09-24,verbal,playground,morning,referral to counselor,Y
+34957,2026-09-24,defiance,cafeteria,after lunch,loss of privilege,Y
+34960,2026-09-24,disruption,playground,mid-day,loss of privilege,Y
+34986,2026-09-24,disruption,bus,morning,in-school suspension,Y
+35352,2026-09-24,disruption,cafeteria,after lunch,detention,Y
+15051,2026-09-25,disruption,classroom,morning,loss of privilege,Y
+15073,2026-09-25,physical,classroom,mid-day,parent contact,N
+15158,2026-09-25,defiance,hallway,morning,parent contact,Y
+15182,2026-09-25,disruption,playground,afternoon,referral to counselor,N
+15206,2026-09-25,physical,playground,morning,detention,N
+15301,2026-09-25,physical,bus,mid-day,conference,N
+15503,2026-09-25,disruption,playground,morning,referral to counselor,Y
+15510,2026-09-25,disruption,hallway,dismissal,in-school suspension,Y
+28727,2026-09-25,defiance,classroom,morning,conference,N
+28747,2026-09-25,verbal,classroom,dismissal,loss of privilege,N
+28788,2026-09-25,technology,playground,morning,loss of privilege,N
+28837,2026-09-25,physical,classroom,morning,detention,N
+28887,2026-09-25,defiance,classroom,mid-day,parent contact,Y
+28887,2026-09-25,verbal,classroom,morning,parent contact,Y
+28908,2026-09-25,disruption,bus,morning,loss of privilege,Y
+34366,2026-09-25,disruption,cafeteria,after lunch,loss of privilege,N
+34421,2026-09-25,disruption,playground,afternoon,detention,N
+34960,2026-09-25,defiance,hallway,dismissal,loss of privilege,N
+35460,2026-09-25,defiance,hallway,after lunch,conference,Y
+14957,2026-09-28,disruption,classroom,morning,referral to counselor,Y
+15358,2026-09-28,other,classroom,mid-day,parent contact,Y
+15359,2026-09-28,disruption,hallway,mid-day,conference,Y
+15482,2026-09-28,verbal,classroom,afternoon,parent contact,Y
+15495,2026-09-28,physical,classroom,mid-day,in-school suspension,N
+28387,2026-09-28,other,classroom,mid-day,in-school suspension,N
+28883,2026-09-28,tardy,classroom,afternoon,parent contact,N
+34012,2026-09-28,verbal,cafeteria,after lunch,referral to counselor,N
+34674,2026-09-28,defiance,bus,dismissal,loss of privilege,Y
+35018,2026-09-28,other,playground,mid-day,parent contact,Y
+35212,2026-09-28,defiance,bus,afternoon,in-school suspension,N
+35218,2026-09-28,disruption,hallway,morning,conference,Y
+35279,2026-09-28,disruption,hallway,after lunch,conference,N
+35393,2026-09-28,tardy,playground,dismissal,parent contact,Y
+15153,2026-09-29,disruption,classroom,mid-day,detention,Y
+15159,2026-09-29,other,classroom,afternoon,parent contact,Y
+15352,2026-09-29,disruption,classroom,afternoon,detention,Y
+28887,2026-09-29,disruption,playground,afternoon,parent contact,Y
+28887,2026-09-29,defiance,playground,mid-day,loss of privilege,Y
+34489,2026-09-29,defiance,classroom,afternoon,conference,Y
+34644,2026-09-29,disruption,playground,mid-day,referral to counselor,Y
+34701,2026-09-29,defiance,classroom,afternoon,referral to counselor,Y
+34770,2026-09-29,disruption,classroom,morning,loss of privilege,N
+34808,2026-09-29,defiance,hallway,after lunch,parent contact,N
+34947,2026-09-29,defiance,cafeteria,after lunch,detention,Y
+34966,2026-09-29,physical,classroom,mid-day,detention,N
+35101,2026-09-29,defiance,cafeteria,after lunch,parent contact,N
+35391,2026-09-29,verbal,cafeteria,after lunch,parent contact,Y
+15162,2026-09-30,defiance,hallway,morning,parent contact,N
+15330,2026-09-30,disruption,classroom,dismissal,referral to counselor,Y
+28556,2026-09-30,defiance,playground,dismissal,referral to counselor,N
+28887,2026-09-30,physical,playground,dismissal,detention,N
+28887,2026-09-30,technology,playground,afternoon,parent contact,Y
+28966,2026-09-30,physical,hallway,morning,in-school suspension,N
+34011,2026-09-30,disruption,playground,dismissal,detention,N
+34172,2026-09-30,disruption,cafeteria,after lunch,loss of privilege,Y
+34207,2026-09-30,disruption,hallway,after lunch,parent contact,Y
+34481,2026-09-30,verbal,classroom,morning,loss of privilege,Y
+34570,2026-09-30,disruption,classroom,mid-day,referral to counselor,Y
+34631,2026-09-30,tardy,hallway,mid-day,detention,N
+35234,2026-09-30,disruption,classroom,afternoon,conference,Y
+35249,2026-09-30,disruption,classroom,morning,parent contact,Y
+35279,2026-09-30,physical,playground,morning,loss of privilege,N
+35403,2026-09-30,technology,cafeteria,after lunch,detention,Y
+15038,2026-10-01,physical,bus,mid-day,conference,N
+15140,2026-10-01,disruption,classroom,morning,detention,Y
+15329,2026-10-01,technology,bus,mid-day,conference,Y
+15477,2026-10-01,physical,playground,mid-day,in-school suspension,N
+28415,2026-10-01,verbal,playground,afternoon,loss of privilege,Y
+28596,2026-10-01,defiance,classroom,mid-day,detention,Y
+28683,2026-10-01,defiance,hallway,dismissal,referral to counselor,Y
+28854,2026-10-01,verbal,hallway,morning,detention,Y
+28887,2026-10-01,disruption,classroom,morning,loss of privilege,N
+28887,2026-10-01,tardy,playground,morning,detention,Y
+34116,2026-10-01,disruption,bus,mid-day,referral to counselor,Y
+34130,2026-10-01,disruption,hallway,after lunch,in-school suspension,Y
+34135,2026-10-01,tardy,hallway,after lunch,parent contact,Y
+34236,2026-10-01,defiance,playground,dismissal,loss of privilege,Y
+34667,2026-10-01,technology,classroom,afternoon,detention,Y
+28613,2026-10-02,other,classroom,mid-day,conference,N
+28963,2026-10-02,technology,classroom,morning,detention,Y
+34062,2026-10-02,disruption,classroom,mid-day,conference,N
+35277,2026-10-02,disruption,cafeteria,after lunch,parent contact,Y
+14871,2026-10-05,disruption,classroom,morning,conference,Y
+14994,2026-10-05,tardy,classroom,mid-day,loss of privilege,Y
+15090,2026-10-05,defiance,classroom,afternoon,in-school suspension,Y
+15159,2026-10-05,verbal,bus,mid-day,detention,Y
+28396,2026-10-05,disruption,playground,afternoon,loss of privilege,N
+28420,2026-10-05,disruption,playground,afternoon,referral to counselor,Y
+28603,2026-10-05,defiance,hallway,afternoon,conference,Y
+28778,2026-10-05,disruption,playground,mid-day,referral to counselor,Y
+28887,2026-10-05,tardy,hallway,morning,conference,N
+28996,2026-10-05,defiance,hallway,morning,detention,N
+34066,2026-10-05,verbal,classroom,afternoon,parent contact,Y
+34087,2026-10-05,disruption,classroom,morning,referral to counselor,Y
+34751,2026-10-05,defiance,classroom,afternoon,conference,N
+34773,2026-10-05,defiance,hallway,mid-day,detention,Y
+35161,2026-10-05,defiance,bus,mid-day,parent contact,Y
+35403,2026-10-05,tardy,cafeteria,after lunch,conference,Y
+15019,2026-10-06,disruption,classroom,mid-day,in-school suspension,Y
+15483,2026-10-06,disruption,classroom,mid-day,loss of privilege,Y
+28750,2026-10-06,disruption,classroom,morning,referral to counselor,Y
+28957,2026-10-06,defiance,playground,dismissal,loss of privilege,Y
+35047,2026-10-06,physical,bus,mid-day,in-school suspension,N
+35192,2026-10-06,disruption,hallway,dismissal,loss of privilege,Y
+35279,2026-10-06,verbal,cafeteria,after lunch,loss of privilege,Y
+35308,2026-10-06,other,hallway,after lunch,loss of privilege,Y
+35402,2026-10-06,verbal,bus,morning,conference,Y
+14943,2026-10-07,disruption,classroom,mid-day,conference,N
+15329,2026-10-07,disruption,bus,afternoon,in-school suspension,Y
+15353,2026-10-07,physical,hallway,morning,referral to counselor,N
+15482,2026-10-07,tardy,hallway,morning,detention,Y
+28727,2026-10-07,physical,hallway,morning,detention,N
+28831,2026-10-07,physical,hallway,mid-day,parent contact,N
+28887,2026-10-07,physical,playground,morning,referral to counselor,N
+28982,2026-10-07,tardy,bus,mid-day,in-school suspension,Y
+34460,2026-10-07,verbal,hallway,afternoon,in-school suspension,Y
+34572,2026-10-07,disruption,cafeteria,after lunch,in-school suspension,N
+35161,2026-10-07,defiance,classroom,morning,conference,N
+35279,2026-10-07,verbal,hallway,after lunch,parent contact,N
+14956,2026-10-08,disruption,classroom,morning,loss of privilege,Y
+15101,2026-10-08,verbal,classroom,morning,loss of privilege,Y
+15125,2026-10-08,disruption,playground,afternoon,in-school suspension,N
+15212,2026-10-08,defiance,classroom,dismissal,in-school suspension,Y
+15503,2026-10-08,physical,hallway,afternoon,parent contact,N
+28769,2026-10-08,verbal,classroom,morning,detention,Y
+28887,2026-10-08,verbal,playground,mid-day,conference,N
+28894,2026-10-08,defiance,classroom,afternoon,detention,N
+28996,2026-10-08,verbal,hallway,afternoon,detention,N
+34176,2026-10-08,verbal,classroom,afternoon,loss of privilege,Y
+34512,2026-10-08,defiance,classroom,morning,parent contact,Y
+35161,2026-10-08,defiance,classroom,afternoon,detention,Y
+35202,2026-10-08,other,playground,mid-day,detention,Y
+35255,2026-10-08,tardy,cafeteria,after lunch,parent contact,Y
+35383,2026-10-08,disruption,cafeteria,after lunch,detention,Y
+35403,2026-10-08,other,playground,dismissal,parent contact,N
+14935,2026-10-09,defiance,classroom,mid-day,detention,Y
+28684,2026-10-09,physical,playground,dismissal,in-school suspension,N
+28750,2026-10-09,tardy,bus,morning,loss of privilege,Y
+28887,2026-10-09,disruption,classroom,dismissal,referral to counselor,Y
+28887,2026-10-09,tardy,classroom,morning,parent contact,Y
+34285,2026-10-09,disruption,bus,mid-day,detention,Y
+34451,2026-10-09,defiance,classroom,morning,referral to counselor,Y
+34601,2026-10-09,defiance,cafeteria,after lunch,in-school suspension,N
+35162,2026-10-09,defiance,playground,mid-day,parent contact,Y
+35305,2026-10-09,defiance,hallway,morning,referral to counselor,Y
+35403,2026-10-09,disruption,classroom,morning,parent contact,N
+14913,2026-10-13,defiance,bus,dismissal,detention,Y
+14964,2026-10-13,defiance,playground,morning,loss of privilege,Y
+15374,2026-10-13,disruption,classroom,mid-day,loss of privilege,Y
+15375,2026-10-13,defiance,classroom,afternoon,loss of privilege,N
+15405,2026-10-13,physical,classroom,mid-day,parent contact,N
+15411,2026-10-13,defiance,classroom,afternoon,conference,Y
+28732,2026-10-13,technology,classroom,afternoon,loss of privilege,Y
+28883,2026-10-13,other,hallway,afternoon,in-school suspension,N
+34043,2026-10-13,disruption,cafeteria,after lunch,referral to counselor,N
+34219,2026-10-13,tardy,classroom,morning,loss of privilege,Y
+34255,2026-10-13,disruption,hallway,mid-day,loss of privilege,Y
+34309,2026-10-13,disruption,cafeteria,after lunch,loss of privilege,N
+34469,2026-10-13,tardy,classroom,morning,loss of privilege,Y
+34917,2026-10-13,disruption,classroom,morning,loss of privilege,Y
+34980,2026-10-13,disruption,bus,afternoon,in-school suspension,Y
+35161,2026-10-13,defiance,bus,afternoon,referral to counselor,N
+35346,2026-10-13,verbal,bus,dismissal,in-school suspension,Y
+35367,2026-10-13,tardy,cafeteria,after lunch,conference,N
+35456,2026-10-13,disruption,bus,afternoon,conference,Y
+14871,2026-10-14,defiance,classroom,mid-day,parent contact,N
+14991,2026-10-14,defiance,classroom,morning,in-school suspension,Y
+15044,2026-10-14,disruption,hallway,morning,conference,Y
+28599,2026-10-14,tardy,bus,afternoon,referral to counselor,N
+28887,2026-10-14,disruption,playground,mid-day,loss of privilege,Y
+28907,2026-10-14,physical,bus,morning,conference,N
+34592,2026-10-14,disruption,classroom,morning,detention,Y
+34811,2026-10-14,defiance,bus,mid-day,in-school suspension,Y
+35014,2026-10-14,disruption,cafeteria,after lunch,conference,N
+35092,2026-10-14,physical,hallway,after lunch,in-school suspension,N
+35403,2026-10-14,disruption,cafeteria,after lunch,detention,N
+35411,2026-10-14,defiance,hallway,after lunch,conference,N
+14898,2026-10-15,disruption,playground,dismissal,in-school suspension,Y
+15362,2026-10-15,tardy,hallway,morning,loss of privilege,Y
+28431,2026-10-15,disruption,classroom,morning,loss of privilege,Y
+28887,2026-10-15,disruption,classroom,mid-day,in-school suspension,Y
+28982,2026-10-15,disruption,hallway,morning,loss of privilege,Y
+34128,2026-10-15,disruption,classroom,mid-day,loss of privilege,N
+34638,2026-10-15,physical,bus,morning,conference,N
+34703,2026-10-15,tardy,cafeteria,after lunch,referral to counselor,N
+34752,2026-10-15,disruption,classroom,afternoon,detention,Y
+34773,2026-10-15,defiance,playground,morning,parent contact,Y
+34773,2026-10-15,physical,bus,mid-day,parent contact,N
+35460,2026-10-15,tardy,hallway,after lunch,detention,N
+15226,2026-10-16,physical,classroom,dismissal,detention,N
+28437,2026-10-16,defiance,classroom,afternoon,referral to counselor,Y
+28808,2026-10-16,defiance,classroom,dismissal,detention,Y
+28887,2026-10-16,disruption,classroom,morning,in-school suspension,Y
+34626,2026-10-16,disruption,cafeteria,after lunch,detention,Y
+35279,2026-10-16,disruption,hallway,after lunch,referral to counselor,Y
+35403,2026-10-16,verbal,cafeteria,after lunch,referral to counselor,Y
+35403,2026-10-16,disruption,cafeteria,after lunch,loss of privilege,Y
+15423,2026-10-19,verbal,playground,afternoon,referral to counselor,N
+28562,2026-10-19,defiance,playground,morning,referral to counselor,Y
+28673,2026-10-19,disruption,classroom,mid-day,conference,Y
+28887,2026-10-19,physical,classroom,dismissal,detention,N
+34177,2026-10-19,defiance,hallway,mid-day,loss of privilege,Y
+34528,2026-10-19,verbal,cafeteria,after lunch,conference,Y
+34601,2026-10-19,technology,bus,mid-day,detention,Y
+34767,2026-10-19,disruption,classroom,morning,detention,Y
+34793,2026-10-19,other,playground,morning,referral to counselor,Y
+34859,2026-10-19,other,classroom,mid-day,referral to counselor,N
+35403,2026-10-19,verbal,hallway,after lunch,in-school suspension,Y
+14874,2026-10-20,defiance,bus,dismissal,in-school suspension,N
+14891,2026-10-20,disruption,classroom,mid-day,in-school suspension,Y
+15002,2026-10-20,disruption,classroom,morning,referral to counselor,Y
+15226,2026-10-20,disruption,hallway,mid-day,detention,Y
+15371,2026-10-20,disruption,playground,afternoon,parent contact,Y
+28421,2026-10-20,physical,playground,afternoon,loss of privilege,N
+28669,2026-10-20,verbal,hallway,dismissal,conference,Y
+28784,2026-10-20,disruption,classroom,dismissal,loss of privilege,N
+28887,2026-10-20,physical,classroom,afternoon,referral to counselor,N
+28887,2026-10-20,defiance,bus,morning,parent contact,Y
+34229,2026-10-20,verbal,hallway,after lunch,referral to counselor,Y
+34373,2026-10-20,defiance,bus,afternoon,detention,Y
+34396,2026-10-20,defiance,classroom,afternoon,parent contact,N
+34455,2026-10-20,verbal,playground,mid-day,referral to counselor,Y
+34773,2026-10-20,verbal,playground,afternoon,parent contact,Y
+34860,2026-10-20,technology,playground,afternoon,detention,Y
+35279,2026-10-20,verbal,classroom,dismissal,conference,N
+35403,2026-10-20,defiance,cafeteria,after lunch,parent contact,Y
+35403,2026-10-20,disruption,hallway,after lunch,conference,N

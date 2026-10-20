@@ -1,0 +1,3172 @@
+{
+ "source": "PDE SAP 2025-26 district summary reports, from CSIU Google Drive",
+ "extracted": "2026-10-20",
+ "schema_notes": "Counts are aggregate case counts (no student-level data). referral_source.school_based_team_tiered is the 'Tiered' sub-row under School Based Team(s) (a subset of school_based_team, excluded when summing sources to total_cases). discontinued_reasons keys follow the 13A row order on the report. by_grade K = 'K5 Full Day'; pre-K/K4/K5-half rows are in by_grade_pre_k. sum_checks gives per-block totals for verification against total_cases.",
+ "districts": [
+  {
+   "district": "Shamokin Area",
+   "type": "sd",
+   "file_id": "1qBuwvlUtBupY8GBKyKGuD5an4vDTWzo8",
+   "report_title": "Shamokin Area SD",
+   "total_cases": 15,
+   "referrals_by_month": {
+    "September": 3,
+    "October": 0,
+    "November": 2,
+    "December": 1,
+    "January": 2,
+    "February": 1,
+    "March": 4,
+    "April": 2,
+    "May": 0,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 0
+   },
+   "by_gender": {
+    "male": 11,
+    "female": 4,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 1,
+    "hispanic": 3,
+    "multiracial": 0,
+    "pacific_islander": 0,
+    "white": 11
+   },
+   "by_grade": {
+    "K": 0,
+    "1": 1,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 1,
+    "8": 2,
+    "9": 6,
+    "10": 1,
+    "11": 2,
+    "12": 1
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 15
+   },
+   "special_education": {
+    "yes": 2,
+    "no": 13
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 1,
+    "school_mental_health_professionals": 0,
+    "disciplinarian": 2,
+    "instructional_staff": 1,
+    "non_instructional_staff": 2,
+    "parent_guardian": 3,
+    "school_based_team": 2,
+    "school_based_team_tiered": 2,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 0,
+    "self": 4,
+    "other": 0
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 0,
+    "externalizing_behaviors": 2,
+    "academic_concerns": 0,
+    "attendance": 0,
+    "bullying": 0,
+    "policy_violation_substance": 9,
+    "other_policy_violation": 0,
+    "substance_use": 1,
+    "cutting_self_harm": 0,
+    "physical_health": 1,
+    "suicide_ideation_gesture_attempt": 1,
+    "re_entry": 0,
+    "social_concern": 1,
+    "other": 0
+   },
+   "data_gathered": {
+    "yes": 14,
+    "no": 1
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 8,
+    "observations": 11,
+    "academic_records": 10,
+    "attendance_records": 6,
+    "disciplinary_records": 9
+   },
+   "parent_contact_initiated": {
+    "yes": 14,
+    "no": 1,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 9,
+    "no": 6,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 0,
+    "parent_refusal_referred_in_school": 0,
+    "student_refusal": 0,
+    "other": 0,
+    "parent_refusal": 8,
+    "no_longer_enrolled": 0,
+    "sap_not_appropriate": 0,
+    "already_in_treatment": 0,
+    "referral_outpatient_in_school": 0
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 1,
+    "school_team_supports": 2,
+    "group_intervention": 0,
+    "one_to_one_counseling": 3,
+    "school_social_worker": 1,
+    "one_to_one_follow_up": 2,
+    "alternative_school_placement": 1,
+    "crisis_intervention": 0,
+    "other_school_services": 1,
+    "no_school_services": 1
+   },
+   "action_plan": {
+    "yes": 7,
+    "no": 0
+   },
+   "goals_met": {
+    "yes": 4,
+    "somewhat": 2,
+    "no": 1
+   },
+   "school_service": {
+    "academic_supports": 0,
+    "school_team_supports": 2,
+    "one_to_one_counseling": 2,
+    "group_intervention": 0,
+    "school_social_worker": 0,
+    "one_to_one_follow_up": 1,
+    "alternative_school_placement": 1,
+    "crisis_intervention": 0,
+    "other_school_services": 1,
+    "no_school_services": 0
+   },
+   "school_service_accessed": {
+    "yes": 7,
+    "no": 0,
+    "none_recommended": 0
+   },
+   "community_service": {
+    "children_and_youth": 0,
+    "continuing_da_treatment": 2,
+    "continuing_mh_treatment": 4,
+    "other_community_agency": 0,
+    "screening_bh_liaison": 0,
+    "screening_mh_liaison": 0,
+    "screening_da_liaison": 1,
+    "no_community_services": 0,
+    "natural_community_supports": 0
+   },
+   "community_service_accessed": {
+    "yes": 5,
+    "no": 2,
+    "none_recommended": 0
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 0,
+    "drug_alcohol_assessment": 1,
+    "mental_health_assessment": 0,
+    "one_to_one_atod_da_liaison": 0,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 0,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 0
+   },
+   "sum_checks": {
+    "months": 15,
+    "gender": 15,
+    "race": 15,
+    "grade": 15,
+    "emancipated": 15,
+    "special_ed": 15,
+    "referral_source": 15,
+    "primary_reason": 15,
+    "data_gathered": 15,
+    "parent_contact": 15,
+    "parent_permission": 15
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Q16 school-service primary rows total 7 and Q18 community-service rows total 7; these are counts of cases that reached recommendation stage (action plan yes+no = 7), not of all referrals."
+  },
+  {
+   "district": "Millville Area",
+   "type": "sd",
+   "file_id": "1L3K427yqL3rcm-pT3XOAVYZQzm6BDvl9",
+   "report_title": "Millville Area SD",
+   "total_cases": 12,
+   "referrals_by_month": {
+    "September": 3,
+    "October": 4,
+    "November": 0,
+    "December": 1,
+    "January": 1,
+    "February": 1,
+    "March": 2,
+    "April": 0,
+    "May": 0,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 0
+   },
+   "by_gender": {
+    "male": 5,
+    "female": 7,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 0,
+    "hispanic": 0,
+    "multiracial": 0,
+    "pacific_islander": 0,
+    "white": 12
+   },
+   "by_grade": {
+    "K": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 1,
+    "8": 4,
+    "9": 2,
+    "10": 2,
+    "11": 1,
+    "12": 2
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 12
+   },
+   "special_education": {
+    "yes": 2,
+    "no": 10
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 0,
+    "school_mental_health_professionals": 2,
+    "disciplinarian": 0,
+    "instructional_staff": 7,
+    "non_instructional_staff": 3,
+    "parent_guardian": 0,
+    "school_based_team": 0,
+    "school_based_team_tiered": 0,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 0,
+    "self": 0,
+    "other": 0
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 3,
+    "externalizing_behaviors": 2,
+    "academic_concerns": 2,
+    "attendance": 1,
+    "bullying": 0,
+    "policy_violation_substance": 0,
+    "other_policy_violation": 0,
+    "substance_use": 1,
+    "cutting_self_harm": 0,
+    "physical_health": 1,
+    "suicide_ideation_gesture_attempt": 1,
+    "re_entry": 0,
+    "social_concern": 0,
+    "other": 1
+   },
+   "data_gathered": {
+    "yes": 6,
+    "no": 6
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 6,
+    "observations": 6,
+    "academic_records": 6,
+    "attendance_records": 6,
+    "disciplinary_records": 6
+   },
+   "parent_contact_initiated": {
+    "yes": 8,
+    "no": 4,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 0,
+    "no": 12,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 2,
+    "parent_refusal_referred_in_school": 0,
+    "student_refusal": 0,
+    "other": 0,
+    "parent_refusal": 9,
+    "no_longer_enrolled": 0,
+    "sap_not_appropriate": 1,
+    "already_in_treatment": 0,
+    "referral_outpatient_in_school": 0
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 0,
+    "school_team_supports": 0,
+    "group_intervention": 1,
+    "one_to_one_counseling": 2,
+    "school_social_worker": 0,
+    "one_to_one_follow_up": 1,
+    "alternative_school_placement": 1,
+    "crisis_intervention": 0,
+    "other_school_services": 1,
+    "no_school_services": 6
+   },
+   "action_plan": {
+    "yes": 0,
+    "no": 0
+   },
+   "goals_met": {
+    "yes": 0,
+    "somewhat": 0,
+    "no": 0
+   },
+   "school_service": {
+    "academic_supports": 0,
+    "school_team_supports": 0,
+    "one_to_one_counseling": 0,
+    "group_intervention": 0,
+    "school_social_worker": 0,
+    "one_to_one_follow_up": 0,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 0,
+    "other_school_services": 0,
+    "no_school_services": 0
+   },
+   "school_service_accessed": {
+    "yes": 0,
+    "no": 0,
+    "none_recommended": 0
+   },
+   "community_service": {
+    "children_and_youth": 0,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 0,
+    "other_community_agency": 0,
+    "screening_bh_liaison": 0,
+    "screening_mh_liaison": 0,
+    "screening_da_liaison": 0,
+    "no_community_services": 0,
+    "natural_community_supports": 0
+   },
+   "community_service_accessed": {
+    "yes": 0,
+    "no": 0,
+    "none_recommended": 0
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 0,
+    "drug_alcohol_assessment": 0,
+    "mental_health_assessment": 0,
+    "one_to_one_atod_da_liaison": 0,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 0,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 0
+   },
+   "sum_checks": {
+    "months": 12,
+    "gender": 12,
+    "race": 12,
+    "grade": 12,
+    "emancipated": 12,
+    "special_ed": 12,
+    "referral_source": 12,
+    "primary_reason": 12,
+    "data_gathered": 12,
+    "parent_contact": 12,
+    "parent_permission": 12
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Q16 school-service primary rows total 0 and Q18 community-service rows total 0; these are counts of cases that reached recommendation stage (action plan yes+no = 0), not of all referrals."
+  },
+  {
+   "district": "Mifflinburg Area",
+   "type": "sd",
+   "file_id": "1DGpTZmjKSGSnAwDH4RQQp1QZWmGOJnVF",
+   "report_title": "Mifflinburg Area SD",
+   "total_cases": 44,
+   "referrals_by_month": {
+    "September": 6,
+    "October": 12,
+    "November": 6,
+    "December": 0,
+    "January": 4,
+    "February": 4,
+    "March": 5,
+    "April": 2,
+    "May": 2,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 3
+   },
+   "by_gender": {
+    "male": 24,
+    "female": 20,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 2,
+    "hispanic": 1,
+    "multiracial": 1,
+    "pacific_islander": 0,
+    "white": 40
+   },
+   "by_grade": {
+    "K": 0,
+    "1": 0,
+    "2": 0,
+    "3": 4,
+    "4": 0,
+    "5": 5,
+    "6": 2,
+    "7": 2,
+    "8": 6,
+    "9": 10,
+    "10": 11,
+    "11": 4,
+    "12": 0
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 44
+   },
+   "special_education": {
+    "yes": 15,
+    "no": 29
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 4,
+    "school_mental_health_professionals": 10,
+    "disciplinarian": 19,
+    "instructional_staff": 7,
+    "non_instructional_staff": 1,
+    "parent_guardian": 0,
+    "school_based_team": 3,
+    "school_based_team_tiered": 3,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 0,
+    "self": 0,
+    "other": 0
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 2,
+    "externalizing_behaviors": 11,
+    "academic_concerns": 2,
+    "attendance": 1,
+    "bullying": 0,
+    "policy_violation_substance": 5,
+    "other_policy_violation": 0,
+    "substance_use": 3,
+    "cutting_self_harm": 1,
+    "physical_health": 0,
+    "suicide_ideation_gesture_attempt": 6,
+    "re_entry": 1,
+    "social_concern": 4,
+    "other": 8
+   },
+   "data_gathered": {
+    "yes": 39,
+    "no": 5
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 26,
+    "observations": 29,
+    "academic_records": 19,
+    "attendance_records": 22,
+    "disciplinary_records": 23
+   },
+   "parent_contact_initiated": {
+    "yes": 44,
+    "no": 0,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 28,
+    "no": 16,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 0,
+    "parent_refusal_referred_in_school": 1,
+    "student_refusal": 2,
+    "other": 2,
+    "parent_refusal": 12,
+    "no_longer_enrolled": 3,
+    "sap_not_appropriate": 0,
+    "already_in_treatment": 0,
+    "referral_outpatient_in_school": 0
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 2,
+    "school_team_supports": 3,
+    "group_intervention": 8,
+    "one_to_one_counseling": 9,
+    "school_social_worker": 2,
+    "one_to_one_follow_up": 9,
+    "alternative_school_placement": 1,
+    "crisis_intervention": 0,
+    "other_school_services": 0,
+    "no_school_services": 3
+   },
+   "action_plan": {
+    "yes": 17,
+    "no": 7
+   },
+   "goals_met": {
+    "yes": 13,
+    "somewhat": 3,
+    "no": 1
+   },
+   "school_service": {
+    "academic_supports": 2,
+    "school_team_supports": 1,
+    "one_to_one_counseling": 5,
+    "group_intervention": 2,
+    "school_social_worker": 1,
+    "one_to_one_follow_up": 10,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 0,
+    "other_school_services": 3,
+    "no_school_services": 0
+   },
+   "school_service_accessed": {
+    "yes": 23,
+    "no": 1,
+    "none_recommended": 0
+   },
+   "community_service": {
+    "children_and_youth": 1,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 13,
+    "other_community_agency": 1,
+    "screening_bh_liaison": 0,
+    "screening_mh_liaison": 0,
+    "screening_da_liaison": 1,
+    "no_community_services": 8,
+    "natural_community_supports": 0
+   },
+   "community_service_accessed": {
+    "yes": 14,
+    "no": 2,
+    "none_recommended": 8
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 0,
+    "drug_alcohol_assessment": 0,
+    "mental_health_assessment": 0,
+    "one_to_one_atod_da_liaison": 0,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 0,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 1
+   },
+   "sum_checks": {
+    "months": 44,
+    "gender": 44,
+    "race": 44,
+    "grade": 44,
+    "emancipated": 44,
+    "special_ed": 44,
+    "referral_source": 44,
+    "primary_reason": 44,
+    "data_gathered": 44,
+    "parent_contact": 44,
+    "parent_permission": 44
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Q16 school-service primary rows total 24 and Q18 community-service rows total 24; these are counts of cases that reached recommendation stage (action plan yes+no = 24), not of all referrals."
+  },
+  {
+   "district": "Bloomsburg Area",
+   "type": "sd",
+   "file_id": "1zNJvXshMI75vVsP0Rmjv2BWLP2OlTWLo",
+   "report_title": "Bloomsburg Area SD",
+   "total_cases": 55,
+   "referrals_by_month": {
+    "September": 1,
+    "October": 17,
+    "November": 13,
+    "December": 3,
+    "January": 2,
+    "February": 4,
+    "March": 6,
+    "April": 3,
+    "May": 6,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 0
+   },
+   "by_gender": {
+    "male": 33,
+    "female": 22,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 9,
+    "hispanic": 2,
+    "multiracial": 1,
+    "pacific_islander": 0,
+    "white": 43
+   },
+   "by_grade": {
+    "K": 1,
+    "1": 2,
+    "2": 2,
+    "3": 5,
+    "4": 9,
+    "5": 7,
+    "6": 12,
+    "7": 3,
+    "8": 5,
+    "9": 7,
+    "10": 1,
+    "11": 0,
+    "12": 1
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 55
+   },
+   "special_education": {
+    "yes": 16,
+    "no": 39
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 2,
+    "school_mental_health_professionals": 15,
+    "disciplinarian": 16,
+    "instructional_staff": 20,
+    "non_instructional_staff": 1,
+    "parent_guardian": 1,
+    "school_based_team": 0,
+    "school_based_team_tiered": 0,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 0,
+    "self": 0,
+    "other": 0
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 9,
+    "externalizing_behaviors": 24,
+    "academic_concerns": 1,
+    "attendance": 3,
+    "bullying": 2,
+    "policy_violation_substance": 4,
+    "other_policy_violation": 2,
+    "substance_use": 4,
+    "cutting_self_harm": 1,
+    "physical_health": 1,
+    "suicide_ideation_gesture_attempt": 1,
+    "re_entry": 0,
+    "social_concern": 0,
+    "other": 3
+   },
+   "data_gathered": {
+    "yes": 23,
+    "no": 32
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 14,
+    "observations": 19,
+    "academic_records": 10,
+    "attendance_records": 13,
+    "disciplinary_records": 13
+   },
+   "parent_contact_initiated": {
+    "yes": 43,
+    "no": 12,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 13,
+    "no": 42,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 0,
+    "parent_refusal_referred_in_school": 12,
+    "student_refusal": 0,
+    "other": 2,
+    "parent_refusal": 8,
+    "no_longer_enrolled": 1,
+    "sap_not_appropriate": 15,
+    "already_in_treatment": 3,
+    "referral_outpatient_in_school": 6
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 2,
+    "school_team_supports": 4,
+    "group_intervention": 10,
+    "one_to_one_counseling": 25,
+    "school_social_worker": 6,
+    "one_to_one_follow_up": 18,
+    "alternative_school_placement": 1,
+    "crisis_intervention": 1,
+    "other_school_services": 4,
+    "no_school_services": 6
+   },
+   "action_plan": {
+    "yes": 8,
+    "no": 0
+   },
+   "goals_met": {
+    "yes": 3,
+    "somewhat": 5,
+    "no": 0
+   },
+   "school_service": {
+    "academic_supports": 0,
+    "school_team_supports": 0,
+    "one_to_one_counseling": 3,
+    "group_intervention": 2,
+    "school_social_worker": 2,
+    "one_to_one_follow_up": 1,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 0,
+    "other_school_services": 0,
+    "no_school_services": 0
+   },
+   "school_service_accessed": {
+    "yes": 7,
+    "no": 1,
+    "none_recommended": 0
+   },
+   "community_service": {
+    "children_and_youth": 0,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 4,
+    "other_community_agency": 1,
+    "screening_bh_liaison": 0,
+    "screening_mh_liaison": 0,
+    "screening_da_liaison": 2,
+    "no_community_services": 1,
+    "natural_community_supports": 0
+   },
+   "community_service_accessed": {
+    "yes": 6,
+    "no": 1,
+    "none_recommended": 1
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 0,
+    "drug_alcohol_assessment": 2,
+    "mental_health_assessment": 0,
+    "one_to_one_atod_da_liaison": 0,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 0,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 0
+   },
+   "sum_checks": {
+    "months": 55,
+    "gender": 55,
+    "race": 55,
+    "grade": 55,
+    "emancipated": 55,
+    "special_ed": 55,
+    "referral_source": 55,
+    "primary_reason": 55,
+    "data_gathered": 55,
+    "parent_contact": 55,
+    "parent_permission": 55
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Q16 school-service primary rows total 8 and Q18 community-service rows total 8; these are counts of cases that reached recommendation stage (action plan yes+no = 8), not of all referrals."
+  },
+  {
+   "district": "Selinsgrove Area",
+   "type": "sd",
+   "file_id": "1dMnj7uQgmX0EqDVswfbNyqOxTqq0mYhI",
+   "report_title": "Selinsgrove Area SD",
+   "total_cases": 116,
+   "referrals_by_month": {
+    "September": 25,
+    "October": 21,
+    "November": 17,
+    "December": 5,
+    "January": 7,
+    "February": 14,
+    "March": 18,
+    "April": 4,
+    "May": 3,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 2
+   },
+   "by_gender": {
+    "male": 69,
+    "female": 47,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 8,
+    "hispanic": 7,
+    "multiracial": 8,
+    "pacific_islander": 0,
+    "white": 93
+   },
+   "by_grade": {
+    "K": 1,
+    "1": 10,
+    "2": 10,
+    "3": 8,
+    "4": 5,
+    "5": 3,
+    "6": 11,
+    "7": 9,
+    "8": 14,
+    "9": 14,
+    "10": 10,
+    "11": 10,
+    "12": 11
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 116
+   },
+   "special_education": {
+    "yes": 40,
+    "no": 76
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 1,
+    "school_mental_health_professionals": 47,
+    "disciplinarian": 25,
+    "instructional_staff": 25,
+    "non_instructional_staff": 8,
+    "parent_guardian": 6,
+    "school_based_team": 0,
+    "school_based_team_tiered": 0,
+    "threat_assessment": 0,
+    "peer": 2,
+    "safe2say": 0,
+    "self": 1,
+    "other": 1
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 22,
+    "externalizing_behaviors": 39,
+    "academic_concerns": 2,
+    "attendance": 3,
+    "bullying": 0,
+    "policy_violation_substance": 9,
+    "other_policy_violation": 5,
+    "substance_use": 5,
+    "cutting_self_harm": 4,
+    "physical_health": 2,
+    "suicide_ideation_gesture_attempt": 5,
+    "re_entry": 0,
+    "social_concern": 3,
+    "other": 17
+   },
+   "data_gathered": {
+    "yes": 93,
+    "no": 23
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 48,
+    "observations": 69,
+    "academic_records": 91,
+    "attendance_records": 89,
+    "disciplinary_records": 78
+   },
+   "parent_contact_initiated": {
+    "yes": 98,
+    "no": 18,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 41,
+    "no": 75,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 1,
+    "parent_refusal_referred_in_school": 3,
+    "student_refusal": 3,
+    "other": 9,
+    "parent_refusal": 31,
+    "no_longer_enrolled": 3,
+    "sap_not_appropriate": 14,
+    "already_in_treatment": 11,
+    "referral_outpatient_in_school": 3
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 22,
+    "school_team_supports": 19,
+    "group_intervention": 19,
+    "one_to_one_counseling": 37,
+    "school_social_worker": 27,
+    "one_to_one_follow_up": 26,
+    "alternative_school_placement": 1,
+    "crisis_intervention": 3,
+    "other_school_services": 5,
+    "no_school_services": 11
+   },
+   "action_plan": {
+    "yes": 38,
+    "no": 0
+   },
+   "goals_met": {
+    "yes": 26,
+    "somewhat": 8,
+    "no": 4
+   },
+   "school_service": {
+    "academic_supports": 1,
+    "school_team_supports": 5,
+    "one_to_one_counseling": 17,
+    "group_intervention": 3,
+    "school_social_worker": 4,
+    "one_to_one_follow_up": 7,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 1,
+    "other_school_services": 0,
+    "no_school_services": 0
+   },
+   "school_service_accessed": {
+    "yes": 38,
+    "no": 0,
+    "none_recommended": 0
+   },
+   "community_service": {
+    "children_and_youth": 2,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 1,
+    "other_community_agency": 8,
+    "screening_bh_liaison": 23,
+    "screening_mh_liaison": 0,
+    "screening_da_liaison": 0,
+    "no_community_services": 4,
+    "natural_community_supports": 0
+   },
+   "community_service_accessed": {
+    "yes": 31,
+    "no": 3,
+    "none_recommended": 4
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 1,
+    "drug_alcohol_assessment": 0,
+    "mental_health_assessment": 16,
+    "one_to_one_atod_da_liaison": 0,
+    "one_to_one_mh_liaison": 4,
+    "other_social_service_agencies": 2,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 0
+   },
+   "sum_checks": {
+    "months": 116,
+    "gender": 116,
+    "race": 116,
+    "grade": 116,
+    "emancipated": 116,
+    "special_ed": 116,
+    "referral_source": 116,
+    "primary_reason": 116,
+    "data_gathered": 116,
+    "parent_contact": 116,
+    "parent_permission": 116
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Q16 school-service primary rows total 38 and Q18 community-service rows total 38; these are counts of cases that reached recommendation stage (action plan yes+no = 38), not of all referrals."
+  },
+  {
+   "district": "Warrior Run",
+   "type": "sd",
+   "file_id": "1RSfdAjkjTBupxzuajeZzSWifey5829BK",
+   "report_title": "Warrior Run SD",
+   "total_cases": 221,
+   "referrals_by_month": {
+    "September": 6,
+    "October": 32,
+    "November": 18,
+    "December": 25,
+    "January": 24,
+    "February": 47,
+    "March": 20,
+    "April": 25,
+    "May": 24,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 0
+   },
+   "by_gender": {
+    "male": 130,
+    "female": 91,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 8,
+    "hispanic": 4,
+    "multiracial": 8,
+    "pacific_islander": 1,
+    "white": 200
+   },
+   "by_grade": {
+    "K": 10,
+    "1": 13,
+    "2": 19,
+    "3": 27,
+    "4": 16,
+    "5": 13,
+    "6": 12,
+    "7": 16,
+    "8": 13,
+    "9": 10,
+    "10": 24,
+    "11": 27,
+    "12": 21
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 221
+   },
+   "special_education": {
+    "yes": 59,
+    "no": 162
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 6,
+    "school_mental_health_professionals": 2,
+    "disciplinarian": 4,
+    "instructional_staff": 9,
+    "non_instructional_staff": 34,
+    "parent_guardian": 2,
+    "school_based_team": 163,
+    "school_based_team_tiered": 163,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 0,
+    "self": 0,
+    "other": 1
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 1,
+    "externalizing_behaviors": 6,
+    "academic_concerns": 2,
+    "attendance": 200,
+    "bullying": 0,
+    "policy_violation_substance": 0,
+    "other_policy_violation": 3,
+    "substance_use": 5,
+    "cutting_self_harm": 0,
+    "physical_health": 0,
+    "suicide_ideation_gesture_attempt": 1,
+    "re_entry": 0,
+    "social_concern": 3,
+    "other": 0
+   },
+   "data_gathered": {
+    "yes": 210,
+    "no": 11
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 2,
+    "observations": 13,
+    "academic_records": 29,
+    "attendance_records": 184,
+    "disciplinary_records": 12
+   },
+   "parent_contact_initiated": {
+    "yes": 218,
+    "no": 3,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 2,
+    "no": 219,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 1,
+    "parent_refusal_referred_in_school": 122,
+    "student_refusal": 2,
+    "other": 1,
+    "parent_refusal": 4,
+    "no_longer_enrolled": 1,
+    "sap_not_appropriate": 86,
+    "already_in_treatment": 2,
+    "referral_outpatient_in_school": 1
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 72,
+    "school_team_supports": 13,
+    "group_intervention": 4,
+    "one_to_one_counseling": 10,
+    "school_social_worker": 2,
+    "one_to_one_follow_up": 203,
+    "alternative_school_placement": 1,
+    "crisis_intervention": 1,
+    "other_school_services": 13,
+    "no_school_services": 1
+   },
+   "action_plan": {
+    "yes": 1,
+    "no": 0
+   },
+   "goals_met": {
+    "yes": 0,
+    "somewhat": 1,
+    "no": 0
+   },
+   "school_service": {
+    "academic_supports": 1,
+    "school_team_supports": 0,
+    "one_to_one_counseling": 0,
+    "group_intervention": 0,
+    "school_social_worker": 0,
+    "one_to_one_follow_up": 0,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 0,
+    "other_school_services": 0,
+    "no_school_services": 0
+   },
+   "school_service_accessed": {
+    "yes": 1,
+    "no": 0,
+    "none_recommended": 0
+   },
+   "community_service": {
+    "children_and_youth": 0,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 1,
+    "other_community_agency": 0,
+    "screening_bh_liaison": 0,
+    "screening_mh_liaison": 0,
+    "screening_da_liaison": 0,
+    "no_community_services": 0,
+    "natural_community_supports": 0
+   },
+   "community_service_accessed": {
+    "yes": 1,
+    "no": 0,
+    "none_recommended": 0
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 0,
+    "drug_alcohol_assessment": 0,
+    "mental_health_assessment": 0,
+    "one_to_one_atod_da_liaison": 0,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 0,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 0
+   },
+   "sum_checks": {
+    "months": 221,
+    "gender": 221,
+    "race": 221,
+    "grade": 221,
+    "emancipated": 221,
+    "special_ed": 221,
+    "referral_source": 221,
+    "primary_reason": 221,
+    "data_gathered": 221,
+    "parent_contact": 221,
+    "parent_permission": 221
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Data-quality caveat: 200 of 221 referrals are 'Attendance', 163 come from School Based Team(s), 219 had no parent permission and only 1 action plan was created; this looks like a tiered attendance-intervention workflow logged as SAP referrals, so Warrior Run is not comparable to other districts on volume. Q16 school-service primary rows total 1 and Q18 community-service rows total 1; these are counts of cases that reached recommendation stage (action plan yes+no = 1), not of all referrals."
+  },
+  {
+   "district": "Southern Columbia Area",
+   "type": "sd",
+   "file_id": "1I2damDJu4wNUam3UiZjimPBAP7HVOGC9",
+   "report_title": "Southern Columbia Area SD",
+   "total_cases": 100,
+   "referrals_by_month": {
+    "September": 7,
+    "October": 11,
+    "November": 18,
+    "December": 10,
+    "January": 34,
+    "February": 10,
+    "March": 5,
+    "April": 2,
+    "May": 0,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 3
+   },
+   "by_gender": {
+    "male": 59,
+    "female": 41,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 1,
+    "hispanic": 3,
+    "multiracial": 2,
+    "pacific_islander": 0,
+    "white": 94
+   },
+   "by_grade": {
+    "K": 0,
+    "1": 2,
+    "2": 2,
+    "3": 4,
+    "4": 4,
+    "5": 7,
+    "6": 2,
+    "7": 3,
+    "8": 4,
+    "9": 24,
+    "10": 17,
+    "11": 19,
+    "12": 11
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 1,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 100
+   },
+   "special_education": {
+    "yes": 19,
+    "no": 81
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 56,
+    "school_mental_health_professionals": 1,
+    "disciplinarian": 6,
+    "instructional_staff": 33,
+    "non_instructional_staff": 0,
+    "parent_guardian": 4,
+    "school_based_team": 0,
+    "school_based_team_tiered": 0,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 0,
+    "self": 0,
+    "other": 0
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 16,
+    "externalizing_behaviors": 7,
+    "academic_concerns": 0,
+    "attendance": 59,
+    "bullying": 2,
+    "policy_violation_substance": 0,
+    "other_policy_violation": 0,
+    "substance_use": 8,
+    "cutting_self_harm": 0,
+    "physical_health": 0,
+    "suicide_ideation_gesture_attempt": 0,
+    "re_entry": 0,
+    "social_concern": 1,
+    "other": 7
+   },
+   "data_gathered": {
+    "yes": 100,
+    "no": 0
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 97,
+    "observations": 97,
+    "academic_records": 100,
+    "attendance_records": 100,
+    "disciplinary_records": 99
+   },
+   "parent_contact_initiated": {
+    "yes": 32,
+    "no": 68,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 6,
+    "no": 94,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 1,
+    "parent_refusal_referred_in_school": 12,
+    "student_refusal": 3,
+    "other": 0,
+    "parent_refusal": 13,
+    "no_longer_enrolled": 0,
+    "sap_not_appropriate": 61,
+    "already_in_treatment": 6,
+    "referral_outpatient_in_school": 1
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 6,
+    "school_team_supports": 13,
+    "group_intervention": 8,
+    "one_to_one_counseling": 23,
+    "school_social_worker": 13,
+    "one_to_one_follow_up": 25,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 0,
+    "other_school_services": 3,
+    "no_school_services": 55
+   },
+   "action_plan": {
+    "yes": 0,
+    "no": 3
+   },
+   "goals_met": {
+    "yes": 0,
+    "somewhat": 0,
+    "no": 0
+   },
+   "school_service": {
+    "academic_supports": 0,
+    "school_team_supports": 0,
+    "one_to_one_counseling": 0,
+    "group_intervention": 0,
+    "school_social_worker": 0,
+    "one_to_one_follow_up": 2,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 0,
+    "other_school_services": 0,
+    "no_school_services": 1
+   },
+   "school_service_accessed": {
+    "yes": 2,
+    "no": 0,
+    "none_recommended": 1
+   },
+   "community_service": {
+    "children_and_youth": 0,
+    "continuing_da_treatment": 1,
+    "continuing_mh_treatment": 0,
+    "other_community_agency": 0,
+    "screening_bh_liaison": 0,
+    "screening_mh_liaison": 0,
+    "screening_da_liaison": 1,
+    "no_community_services": 0,
+    "natural_community_supports": 1
+   },
+   "community_service_accessed": {
+    "yes": 3,
+    "no": 0,
+    "none_recommended": 0
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 0,
+    "drug_alcohol_assessment": 0,
+    "mental_health_assessment": 0,
+    "one_to_one_atod_da_liaison": 1,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 0,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 0
+   },
+   "sum_checks": {
+    "months": 100,
+    "gender": 100,
+    "race": 100,
+    "grade": 100,
+    "emancipated": 100,
+    "special_ed": 100,
+    "referral_source": 100,
+    "primary_reason": 100,
+    "data_gathered": 100,
+    "parent_contact": 100,
+    "parent_permission": 100
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Q16 school-service primary rows total 3 and Q18 community-service rows total 3; these are counts of cases that reached recommendation stage (action plan yes+no = 3), not of all referrals."
+  },
+  {
+   "district": "Shikellamy",
+   "type": "sd",
+   "file_id": "1eoiEW_-FYpvElggKetocPra5YHgxzBBA",
+   "report_title": "Shikellamy SD",
+   "total_cases": 83,
+   "referrals_by_month": {
+    "September": 20,
+    "October": 15,
+    "November": 10,
+    "December": 7,
+    "January": 7,
+    "February": 10,
+    "March": 10,
+    "April": 2,
+    "May": 2,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 0
+   },
+   "by_gender": {
+    "male": 55,
+    "female": 28,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 10,
+    "hispanic": 10,
+    "multiracial": 4,
+    "pacific_islander": 0,
+    "white": 59
+   },
+   "by_grade": {
+    "K": 8,
+    "1": 4,
+    "2": 7,
+    "3": 11,
+    "4": 14,
+    "5": 4,
+    "6": 7,
+    "7": 3,
+    "8": 3,
+    "9": 4,
+    "10": 10,
+    "11": 6,
+    "12": 2
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 83
+   },
+   "special_education": {
+    "yes": 31,
+    "no": 52
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 1,
+    "school_mental_health_professionals": 12,
+    "disciplinarian": 14,
+    "instructional_staff": 49,
+    "non_instructional_staff": 1,
+    "parent_guardian": 5,
+    "school_based_team": 0,
+    "school_based_team_tiered": 0,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 0,
+    "self": 0,
+    "other": 1
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 8,
+    "externalizing_behaviors": 38,
+    "academic_concerns": 6,
+    "attendance": 3,
+    "bullying": 0,
+    "policy_violation_substance": 1,
+    "other_policy_violation": 2,
+    "substance_use": 9,
+    "cutting_self_harm": 0,
+    "physical_health": 2,
+    "suicide_ideation_gesture_attempt": 4,
+    "re_entry": 2,
+    "social_concern": 3,
+    "other": 5
+   },
+   "data_gathered": {
+    "yes": 69,
+    "no": 14
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 34,
+    "observations": 43,
+    "academic_records": 44,
+    "attendance_records": 41,
+    "disciplinary_records": 50
+   },
+   "parent_contact_initiated": {
+    "yes": 81,
+    "no": 2,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 51,
+    "no": 32,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 10,
+    "parent_refusal_referred_in_school": 6,
+    "student_refusal": 2,
+    "other": 9,
+    "parent_refusal": 7,
+    "no_longer_enrolled": 7,
+    "sap_not_appropriate": 1,
+    "already_in_treatment": 3,
+    "referral_outpatient_in_school": 5
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 7,
+    "school_team_supports": 11,
+    "group_intervention": 6,
+    "one_to_one_counseling": 20,
+    "school_social_worker": 8,
+    "one_to_one_follow_up": 8,
+    "alternative_school_placement": 3,
+    "crisis_intervention": 1,
+    "other_school_services": 3,
+    "no_school_services": 15
+   },
+   "action_plan": {
+    "yes": 23,
+    "no": 10
+   },
+   "goals_met": {
+    "yes": 14,
+    "somewhat": 9,
+    "no": 2
+   },
+   "school_service": {
+    "academic_supports": 2,
+    "school_team_supports": 5,
+    "one_to_one_counseling": 5,
+    "group_intervention": 5,
+    "school_social_worker": 4,
+    "one_to_one_follow_up": 3,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 0,
+    "other_school_services": 4,
+    "no_school_services": 5
+   },
+   "school_service_accessed": {
+    "yes": 27,
+    "no": 1,
+    "none_recommended": 5
+   },
+   "community_service": {
+    "children_and_youth": 1,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 9,
+    "other_community_agency": 6,
+    "screening_bh_liaison": 0,
+    "screening_mh_liaison": 4,
+    "screening_da_liaison": 0,
+    "no_community_services": 12,
+    "natural_community_supports": 1
+   },
+   "community_service_accessed": {
+    "yes": 14,
+    "no": 7,
+    "none_recommended": 12
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 0,
+    "drug_alcohol_assessment": 2,
+    "mental_health_assessment": 1,
+    "one_to_one_atod_da_liaison": 0,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 1,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 0
+   },
+   "sum_checks": {
+    "months": 83,
+    "gender": 83,
+    "race": 83,
+    "grade": 83,
+    "emancipated": 83,
+    "special_ed": 83,
+    "referral_source": 83,
+    "primary_reason": 83,
+    "data_gathered": 83,
+    "parent_contact": 83,
+    "parent_permission": 83
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Q16 school-service primary rows total 33 and Q18 community-service rows total 33; these are counts of cases that reached recommendation stage (action plan yes+no = 33), not of all referrals."
+  },
+  {
+   "district": "Danville Area",
+   "type": "sd",
+   "file_id": "1Ks49eUENdpT-kFRRMkBIUNwtwRyN8d39",
+   "report_title": "Danville Area SD",
+   "total_cases": 32,
+   "referrals_by_month": {
+    "September": 4,
+    "October": 8,
+    "November": 4,
+    "December": 1,
+    "January": 3,
+    "February": 1,
+    "March": 5,
+    "April": 5,
+    "May": 1,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 0
+   },
+   "by_gender": {
+    "male": 21,
+    "female": 11,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 5,
+    "hispanic": 2,
+    "multiracial": 0,
+    "pacific_islander": 0,
+    "white": 25
+   },
+   "by_grade": {
+    "K": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 8,
+    "7": 6,
+    "8": 7,
+    "9": 4,
+    "10": 1,
+    "11": 4,
+    "12": 2
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 32
+   },
+   "special_education": {
+    "yes": 14,
+    "no": 18
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 6,
+    "school_mental_health_professionals": 12,
+    "disciplinarian": 0,
+    "instructional_staff": 13,
+    "non_instructional_staff": 0,
+    "parent_guardian": 0,
+    "school_based_team": 1,
+    "school_based_team_tiered": 1,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 0,
+    "self": 0,
+    "other": 0
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 0,
+    "externalizing_behaviors": 9,
+    "academic_concerns": 6,
+    "attendance": 8,
+    "bullying": 0,
+    "policy_violation_substance": 0,
+    "other_policy_violation": 0,
+    "substance_use": 6,
+    "cutting_self_harm": 1,
+    "physical_health": 0,
+    "suicide_ideation_gesture_attempt": 2,
+    "re_entry": 0,
+    "social_concern": 0,
+    "other": 0
+   },
+   "data_gathered": {
+    "yes": 28,
+    "no": 4
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 9,
+    "observations": 15,
+    "academic_records": 10,
+    "attendance_records": 9,
+    "disciplinary_records": 7
+   },
+   "parent_contact_initiated": {
+    "yes": 30,
+    "no": 2,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 21,
+    "no": 11,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 0,
+    "parent_refusal_referred_in_school": 1,
+    "student_refusal": 5,
+    "other": 3,
+    "parent_refusal": 3,
+    "no_longer_enrolled": 0,
+    "sap_not_appropriate": 3,
+    "already_in_treatment": 1,
+    "referral_outpatient_in_school": 1
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 0,
+    "school_team_supports": 3,
+    "group_intervention": 0,
+    "one_to_one_counseling": 10,
+    "school_social_worker": 3,
+    "one_to_one_follow_up": 0,
+    "alternative_school_placement": 4,
+    "crisis_intervention": 0,
+    "other_school_services": 0,
+    "no_school_services": 0
+   },
+   "action_plan": {
+    "yes": 15,
+    "no": 0
+   },
+   "goals_met": {
+    "yes": 7,
+    "somewhat": 7,
+    "no": 1
+   },
+   "school_service": {
+    "academic_supports": 0,
+    "school_team_supports": 0,
+    "one_to_one_counseling": 8,
+    "group_intervention": 0,
+    "school_social_worker": 5,
+    "one_to_one_follow_up": 1,
+    "alternative_school_placement": 1,
+    "crisis_intervention": 0,
+    "other_school_services": 0,
+    "no_school_services": 0
+   },
+   "school_service_accessed": {
+    "yes": 14,
+    "no": 1,
+    "none_recommended": 0
+   },
+   "community_service": {
+    "children_and_youth": 0,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 0,
+    "other_community_agency": 0,
+    "screening_bh_liaison": 5,
+    "screening_mh_liaison": 6,
+    "screening_da_liaison": 3,
+    "no_community_services": 1,
+    "natural_community_supports": 0
+   },
+   "community_service_accessed": {
+    "yes": 13,
+    "no": 1,
+    "none_recommended": 1
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 1,
+    "drug_alcohol_assessment": 1,
+    "mental_health_assessment": 2,
+    "one_to_one_atod_da_liaison": 1,
+    "one_to_one_mh_liaison": 8,
+    "other_social_service_agencies": 0,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 1
+   },
+   "sum_checks": {
+    "months": 32,
+    "gender": 32,
+    "race": 32,
+    "grade": 32,
+    "emancipated": 32,
+    "special_ed": 32,
+    "referral_source": 32,
+    "primary_reason": 32,
+    "data_gathered": 32,
+    "parent_contact": 32,
+    "parent_permission": 32
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Q16 school-service primary rows total 15 and Q18 community-service rows total 15; these are counts of cases that reached recommendation stage (action plan yes+no = 15), not of all referrals."
+  },
+  {
+   "district": "Central Columbia",
+   "type": "sd",
+   "file_id": "1UniM68OXzNlXFWpS7GaKJE4cdUd5c8mW",
+   "report_title": "Central Columbia SD",
+   "total_cases": 71,
+   "referrals_by_month": {
+    "September": 5,
+    "October": 12,
+    "November": 8,
+    "December": 3,
+    "January": 10,
+    "February": 10,
+    "March": 13,
+    "April": 5,
+    "May": 4,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 1
+   },
+   "by_gender": {
+    "male": 40,
+    "female": 31,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 1,
+    "asian": 0,
+    "black": 3,
+    "hispanic": 7,
+    "multiracial": 2,
+    "pacific_islander": 0,
+    "white": 58
+   },
+   "by_grade": {
+    "K": 1,
+    "1": 1,
+    "2": 0,
+    "3": 4,
+    "4": 0,
+    "5": 6,
+    "6": 5,
+    "7": 6,
+    "8": 15,
+    "9": 8,
+    "10": 10,
+    "11": 7,
+    "12": 3
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 5,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 71
+   },
+   "special_education": {
+    "yes": 21,
+    "no": 50
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 4,
+    "school_mental_health_professionals": 10,
+    "disciplinarian": 3,
+    "instructional_staff": 40,
+    "non_instructional_staff": 12,
+    "parent_guardian": 0,
+    "school_based_team": 0,
+    "school_based_team_tiered": 0,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 1,
+    "self": 0,
+    "other": 1
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 13,
+    "externalizing_behaviors": 7,
+    "academic_concerns": 14,
+    "attendance": 17,
+    "bullying": 1,
+    "policy_violation_substance": 3,
+    "other_policy_violation": 0,
+    "substance_use": 2,
+    "cutting_self_harm": 1,
+    "physical_health": 4,
+    "suicide_ideation_gesture_attempt": 4,
+    "re_entry": 1,
+    "social_concern": 1,
+    "other": 3
+   },
+   "data_gathered": {
+    "yes": 51,
+    "no": 20
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 31,
+    "observations": 0,
+    "academic_records": 38,
+    "attendance_records": 42,
+    "disciplinary_records": 4
+   },
+   "parent_contact_initiated": {
+    "yes": 60,
+    "no": 11,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 1,
+    "no": 70,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 2,
+    "parent_refusal_referred_in_school": 32,
+    "student_refusal": 0,
+    "other": 0,
+    "parent_refusal": 0,
+    "no_longer_enrolled": 1,
+    "sap_not_appropriate": 12,
+    "already_in_treatment": 8,
+    "referral_outpatient_in_school": 15
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 24,
+    "school_team_supports": 18,
+    "group_intervention": 5,
+    "one_to_one_counseling": 56,
+    "school_social_worker": 10,
+    "one_to_one_follow_up": 39,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 4,
+    "other_school_services": 22,
+    "no_school_services": 0
+   },
+   "action_plan": {
+    "yes": 0,
+    "no": 1
+   },
+   "goals_met": {
+    "yes": 0,
+    "somewhat": 0,
+    "no": 0
+   },
+   "school_service": {
+    "academic_supports": 0,
+    "school_team_supports": 0,
+    "one_to_one_counseling": 0,
+    "group_intervention": 0,
+    "school_social_worker": 0,
+    "one_to_one_follow_up": 1,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 0,
+    "other_school_services": 0,
+    "no_school_services": 0
+   },
+   "school_service_accessed": {
+    "yes": 1,
+    "no": 0,
+    "none_recommended": 0
+   },
+   "community_service": {
+    "children_and_youth": 0,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 0,
+    "other_community_agency": 0,
+    "screening_bh_liaison": 0,
+    "screening_mh_liaison": 0,
+    "screening_da_liaison": 1,
+    "no_community_services": 0,
+    "natural_community_supports": 0
+   },
+   "community_service_accessed": {
+    "yes": 1,
+    "no": 0,
+    "none_recommended": 0
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 0,
+    "drug_alcohol_assessment": 0,
+    "mental_health_assessment": 0,
+    "one_to_one_atod_da_liaison": 0,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 0,
+    "group_intervention": 0,
+    "no_recommendation": 1,
+    "information_not_available": 0,
+    "screening_did_not_occur": 0
+   },
+   "sum_checks": {
+    "months": 71,
+    "gender": 71,
+    "race": 71,
+    "grade": 71,
+    "emancipated": 71,
+    "special_ed": 71,
+    "referral_source": 71,
+    "primary_reason": 71,
+    "data_gathered": 71,
+    "parent_contact": 71,
+    "parent_permission": 71
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Q16 school-service primary rows total 1 and Q18 community-service rows total 1; these are counts of cases that reached recommendation stage (action plan yes+no = 1), not of all referrals."
+  },
+  {
+   "district": "Midd-West",
+   "type": "sd",
+   "file_id": "17P1taTmqUP8FierFae9GcDoESsSYKl_W",
+   "report_title": "Midd West SD",
+   "total_cases": 66,
+   "referrals_by_month": {
+    "September": 6,
+    "October": 4,
+    "November": 10,
+    "December": 9,
+    "January": 15,
+    "February": 3,
+    "March": 5,
+    "April": 4,
+    "May": 7,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 3
+   },
+   "by_gender": {
+    "male": 43,
+    "female": 23,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 3,
+    "hispanic": 1,
+    "multiracial": 2,
+    "pacific_islander": 0,
+    "white": 60
+   },
+   "by_grade": {
+    "K": 1,
+    "1": 0,
+    "2": 2,
+    "3": 0,
+    "4": 1,
+    "5": 6,
+    "6": 10,
+    "7": 15,
+    "8": 4,
+    "9": 7,
+    "10": 14,
+    "11": 4,
+    "12": 2
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 66
+   },
+   "special_education": {
+    "yes": 32,
+    "no": 34
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 13,
+    "school_mental_health_professionals": 19,
+    "disciplinarian": 3,
+    "instructional_staff": 30,
+    "non_instructional_staff": 1,
+    "parent_guardian": 0,
+    "school_based_team": 0,
+    "school_based_team_tiered": 0,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 0,
+    "self": 0,
+    "other": 0
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 2,
+    "externalizing_behaviors": 16,
+    "academic_concerns": 8,
+    "attendance": 6,
+    "bullying": 0,
+    "policy_violation_substance": 1,
+    "other_policy_violation": 4,
+    "substance_use": 11,
+    "cutting_self_harm": 2,
+    "physical_health": 1,
+    "suicide_ideation_gesture_attempt": 3,
+    "re_entry": 1,
+    "social_concern": 9,
+    "other": 2
+   },
+   "data_gathered": {
+    "yes": 60,
+    "no": 6
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 54,
+    "observations": 60,
+    "academic_records": 60,
+    "attendance_records": 60,
+    "disciplinary_records": 60
+   },
+   "parent_contact_initiated": {
+    "yes": 53,
+    "no": 13,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 27,
+    "no": 39,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 1,
+    "parent_refusal_referred_in_school": 2,
+    "student_refusal": 1,
+    "other": 1,
+    "parent_refusal": 17,
+    "no_longer_enrolled": 5,
+    "sap_not_appropriate": 10,
+    "already_in_treatment": 2,
+    "referral_outpatient_in_school": 0
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 10,
+    "school_team_supports": 0,
+    "group_intervention": 8,
+    "one_to_one_counseling": 11,
+    "school_social_worker": 3,
+    "one_to_one_follow_up": 6,
+    "alternative_school_placement": 3,
+    "crisis_intervention": 1,
+    "other_school_services": 2,
+    "no_school_services": 13
+   },
+   "action_plan": {
+    "yes": 26,
+    "no": 1
+   },
+   "goals_met": {
+    "yes": 18,
+    "somewhat": 7,
+    "no": 1
+   },
+   "school_service": {
+    "academic_supports": 2,
+    "school_team_supports": 2,
+    "one_to_one_counseling": 1,
+    "group_intervention": 4,
+    "school_social_worker": 1,
+    "one_to_one_follow_up": 4,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 1,
+    "other_school_services": 7,
+    "no_school_services": 5
+   },
+   "school_service_accessed": {
+    "yes": 21,
+    "no": 1,
+    "none_recommended": 5
+   },
+   "community_service": {
+    "children_and_youth": 0,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 5,
+    "other_community_agency": 6,
+    "screening_bh_liaison": 0,
+    "screening_mh_liaison": 1,
+    "screening_da_liaison": 5,
+    "no_community_services": 9,
+    "natural_community_supports": 1
+   },
+   "community_service_accessed": {
+    "yes": 16,
+    "no": 2,
+    "none_recommended": 9
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 0,
+    "drug_alcohol_assessment": 0,
+    "mental_health_assessment": 1,
+    "one_to_one_atod_da_liaison": 1,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 2,
+    "group_intervention": 1,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 1
+   },
+   "sum_checks": {
+    "months": 66,
+    "gender": 66,
+    "race": 66,
+    "grade": 66,
+    "emancipated": 66,
+    "special_ed": 66,
+    "referral_source": 66,
+    "primary_reason": 66,
+    "data_gathered": 66,
+    "parent_contact": 66,
+    "parent_permission": 66
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Q16 school-service primary rows total 27 and Q18 community-service rows total 27; these are counts of cases that reached recommendation stage (action plan yes+no = 27), not of all referrals."
+  },
+  {
+   "district": "Mount Carmel Area",
+   "type": "sd",
+   "file_id": "1VOhWX2dL3vfnnKv81SH2acVunF8LNOGw",
+   "report_title": "Mount Carmel Area SD",
+   "total_cases": 147,
+   "referrals_by_month": {
+    "September": 43,
+    "October": 25,
+    "November": 20,
+    "December": 6,
+    "January": 10,
+    "February": 17,
+    "March": 12,
+    "April": 8,
+    "May": 5,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 1
+   },
+   "by_gender": {
+    "male": 81,
+    "female": 66,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 7,
+    "hispanic": 23,
+    "multiracial": 12,
+    "pacific_islander": 0,
+    "white": 105
+   },
+   "by_grade": {
+    "K": 38,
+    "1": 36,
+    "2": 10,
+    "3": 19,
+    "4": 0,
+    "5": 4,
+    "6": 0,
+    "7": 13,
+    "8": 7,
+    "9": 7,
+    "10": 9,
+    "11": 2,
+    "12": 2
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 147
+   },
+   "special_education": {
+    "yes": 24,
+    "no": 123
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 0,
+    "school_mental_health_professionals": 1,
+    "disciplinarian": 0,
+    "instructional_staff": 142,
+    "non_instructional_staff": 0,
+    "parent_guardian": 2,
+    "school_based_team": 0,
+    "school_based_team_tiered": 0,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 0,
+    "self": 0,
+    "other": 2
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 7,
+    "externalizing_behaviors": 23,
+    "academic_concerns": 93,
+    "attendance": 3,
+    "bullying": 1,
+    "policy_violation_substance": 0,
+    "other_policy_violation": 0,
+    "substance_use": 2,
+    "cutting_self_harm": 1,
+    "physical_health": 1,
+    "suicide_ideation_gesture_attempt": 1,
+    "re_entry": 0,
+    "social_concern": 1,
+    "other": 14
+   },
+   "data_gathered": {
+    "yes": 107,
+    "no": 40
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 26,
+    "observations": 28,
+    "academic_records": 105,
+    "attendance_records": 56,
+    "disciplinary_records": 23
+   },
+   "parent_contact_initiated": {
+    "yes": 114,
+    "no": 33,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 95,
+    "no": 52,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 0,
+    "parent_refusal_referred_in_school": 5,
+    "student_refusal": 0,
+    "other": 0,
+    "parent_refusal": 8,
+    "no_longer_enrolled": 9,
+    "sap_not_appropriate": 33,
+    "already_in_treatment": 2,
+    "referral_outpatient_in_school": 0
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 17,
+    "school_team_supports": 3,
+    "group_intervention": 0,
+    "one_to_one_counseling": 4,
+    "school_social_worker": 3,
+    "one_to_one_follow_up": 8,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 1,
+    "other_school_services": 16,
+    "no_school_services": 5
+   },
+   "action_plan": {
+    "yes": 88,
+    "no": 2
+   },
+   "goals_met": {
+    "yes": 83,
+    "somewhat": 4,
+    "no": 1
+   },
+   "school_service": {
+    "academic_supports": 71,
+    "school_team_supports": 10,
+    "one_to_one_counseling": 0,
+    "group_intervention": 0,
+    "school_social_worker": 0,
+    "one_to_one_follow_up": 1,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 0,
+    "other_school_services": 7,
+    "no_school_services": 1
+   },
+   "school_service_accessed": {
+    "yes": 89,
+    "no": 0,
+    "none_recommended": 1
+   },
+   "community_service": {
+    "children_and_youth": 0,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 0,
+    "other_community_agency": 2,
+    "screening_bh_liaison": 0,
+    "screening_mh_liaison": 8,
+    "screening_da_liaison": 1,
+    "no_community_services": 79,
+    "natural_community_supports": 0
+   },
+   "community_service_accessed": {
+    "yes": 11,
+    "no": 0,
+    "none_recommended": 79
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 7,
+    "drug_alcohol_assessment": 1,
+    "mental_health_assessment": 1,
+    "one_to_one_atod_da_liaison": 0,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 0,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 0
+   },
+   "sum_checks": {
+    "months": 147,
+    "gender": 147,
+    "race": 147,
+    "grade": 147,
+    "emancipated": 147,
+    "special_ed": 147,
+    "referral_source": 147,
+    "primary_reason": 147,
+    "data_gathered": 147,
+    "parent_contact": 147,
+    "parent_permission": 147
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Note: 93 of 147 referrals are 'Academic concerns' with 71 academic-support recommendations and 79 'No community services recommended'; a large academic-support cohort inflates the total relative to peers. Q16 school-service primary rows total 90 and Q18 community-service rows total 90; these are counts of cases that reached recommendation stage (action plan yes+no = 90), not of all referrals."
+  },
+  {
+   "district": "Berwick Area",
+   "type": "sd",
+   "file_id": "1zH1GNRH7I1YCKmzWAoSIkqhnpi_VDXOQ",
+   "report_title": "Berwick Area SD",
+   "total_cases": 25,
+   "referrals_by_month": {
+    "September": 1,
+    "October": 5,
+    "November": 1,
+    "December": 5,
+    "January": 1,
+    "February": 4,
+    "March": 6,
+    "April": 0,
+    "May": 2,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 0
+   },
+   "by_gender": {
+    "male": 12,
+    "female": 13,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 3,
+    "hispanic": 5,
+    "multiracial": 0,
+    "pacific_islander": 0,
+    "white": 17
+   },
+   "by_grade": {
+    "K": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 2,
+    "6": 2,
+    "7": 0,
+    "8": 6,
+    "9": 3,
+    "10": 6,
+    "11": 1,
+    "12": 5
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 25
+   },
+   "special_education": {
+    "yes": 8,
+    "no": 17
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 0,
+    "school_mental_health_professionals": 0,
+    "disciplinarian": 4,
+    "instructional_staff": 15,
+    "non_instructional_staff": 6,
+    "parent_guardian": 0,
+    "school_based_team": 0,
+    "school_based_team_tiered": 0,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 0,
+    "self": 0,
+    "other": 0
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 0,
+    "externalizing_behaviors": 5,
+    "academic_concerns": 5,
+    "attendance": 0,
+    "bullying": 0,
+    "policy_violation_substance": 8,
+    "other_policy_violation": 0,
+    "substance_use": 2,
+    "cutting_self_harm": 0,
+    "physical_health": 2,
+    "suicide_ideation_gesture_attempt": 1,
+    "re_entry": 0,
+    "social_concern": 0,
+    "other": 2
+   },
+   "data_gathered": {
+    "yes": 24,
+    "no": 1
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 22,
+    "observations": 23,
+    "academic_records": 24,
+    "attendance_records": 24,
+    "disciplinary_records": 23
+   },
+   "parent_contact_initiated": {
+    "yes": 23,
+    "no": 2,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 8,
+    "no": 17,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 0,
+    "parent_refusal_referred_in_school": 0,
+    "student_refusal": 0,
+    "other": 6,
+    "parent_refusal": 7,
+    "no_longer_enrolled": 0,
+    "sap_not_appropriate": 2,
+    "already_in_treatment": 3,
+    "referral_outpatient_in_school": 0
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 2,
+    "school_team_supports": 0,
+    "group_intervention": 0,
+    "one_to_one_counseling": 3,
+    "school_social_worker": 0,
+    "one_to_one_follow_up": 15,
+    "alternative_school_placement": 1,
+    "crisis_intervention": 0,
+    "other_school_services": 0,
+    "no_school_services": 0
+   },
+   "action_plan": {
+    "yes": 0,
+    "no": 7
+   },
+   "goals_met": {
+    "yes": 0,
+    "somewhat": 0,
+    "no": 0
+   },
+   "school_service": {
+    "academic_supports": 0,
+    "school_team_supports": 0,
+    "one_to_one_counseling": 0,
+    "group_intervention": 0,
+    "school_social_worker": 0,
+    "one_to_one_follow_up": 4,
+    "alternative_school_placement": 1,
+    "crisis_intervention": 0,
+    "other_school_services": 1,
+    "no_school_services": 1
+   },
+   "school_service_accessed": {
+    "yes": 6,
+    "no": 0,
+    "none_recommended": 1
+   },
+   "community_service": {
+    "children_and_youth": 0,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 2,
+    "other_community_agency": 1,
+    "screening_bh_liaison": 0,
+    "screening_mh_liaison": 1,
+    "screening_da_liaison": 1,
+    "no_community_services": 2,
+    "natural_community_supports": 0
+   },
+   "community_service_accessed": {
+    "yes": 5,
+    "no": 0,
+    "none_recommended": 2
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 1,
+    "drug_alcohol_assessment": 0,
+    "mental_health_assessment": 0,
+    "one_to_one_atod_da_liaison": 0,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 1,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 0
+   },
+   "sum_checks": {
+    "months": 25,
+    "gender": 25,
+    "race": 25,
+    "grade": 25,
+    "emancipated": 25,
+    "special_ed": 25,
+    "referral_source": 25,
+    "primary_reason": 25,
+    "data_gathered": 25,
+    "parent_contact": 25,
+    "parent_permission": 25
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Q16 school-service primary rows total 7 and Q18 community-service rows total 7; these are counts of cases that reached recommendation stage (action plan yes+no = 7), not of all referrals."
+  },
+  {
+   "district": "Milton Area",
+   "type": "sd",
+   "file_id": "1M8OYoqb5UHX7p77oSdXi0BX3Y9b6sdS0",
+   "report_title": "Milton Area SD",
+   "total_cases": 85,
+   "referrals_by_month": {
+    "September": 14,
+    "October": 16,
+    "November": 12,
+    "December": 8,
+    "January": 9,
+    "February": 10,
+    "March": 10,
+    "April": 3,
+    "May": 3,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 0
+   },
+   "by_gender": {
+    "male": 42,
+    "female": 43,
+    "nonbinary_other": 0
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 6,
+    "hispanic": 9,
+    "multiracial": 3,
+    "pacific_islander": 4,
+    "white": 63
+   },
+   "by_grade": {
+    "K": 1,
+    "1": 3,
+    "2": 3,
+    "3": 0,
+    "4": 3,
+    "5": 1,
+    "6": 4,
+    "7": 10,
+    "8": 10,
+    "9": 18,
+    "10": 11,
+    "11": 16,
+    "12": 5
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 85
+   },
+   "special_education": {
+    "yes": 25,
+    "no": 60
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 3,
+    "school_mental_health_professionals": 16,
+    "disciplinarian": 38,
+    "instructional_staff": 18,
+    "non_instructional_staff": 7,
+    "parent_guardian": 1,
+    "school_based_team": 0,
+    "school_based_team_tiered": 0,
+    "threat_assessment": 0,
+    "peer": 1,
+    "safe2say": 0,
+    "self": 1,
+    "other": 0
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 4,
+    "externalizing_behaviors": 36,
+    "academic_concerns": 0,
+    "attendance": 4,
+    "bullying": 3,
+    "policy_violation_substance": 7,
+    "other_policy_violation": 7,
+    "substance_use": 7,
+    "cutting_self_harm": 4,
+    "physical_health": 1,
+    "suicide_ideation_gesture_attempt": 2,
+    "re_entry": 0,
+    "social_concern": 8,
+    "other": 2
+   },
+   "data_gathered": {
+    "yes": 66,
+    "no": 19
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 58,
+    "observations": 63,
+    "academic_records": 61,
+    "attendance_records": 62,
+    "disciplinary_records": 60
+   },
+   "parent_contact_initiated": {
+    "yes": 74,
+    "no": 11,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 41,
+    "no": 44,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 3,
+    "parent_refusal_referred_in_school": 15,
+    "student_refusal": 4,
+    "other": 0,
+    "parent_refusal": 17,
+    "no_longer_enrolled": 1,
+    "sap_not_appropriate": 8,
+    "already_in_treatment": 2,
+    "referral_outpatient_in_school": 1
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 10,
+    "school_team_supports": 10,
+    "group_intervention": 5,
+    "one_to_one_counseling": 25,
+    "school_social_worker": 8,
+    "one_to_one_follow_up": 14,
+    "alternative_school_placement": 5,
+    "crisis_intervention": 1,
+    "other_school_services": 2,
+    "no_school_services": 11
+   },
+   "action_plan": {
+    "yes": 9,
+    "no": 25
+   },
+   "goals_met": {
+    "yes": 4,
+    "somewhat": 4,
+    "no": 1
+   },
+   "school_service": {
+    "academic_supports": 1,
+    "school_team_supports": 1,
+    "one_to_one_counseling": 5,
+    "group_intervention": 1,
+    "school_social_worker": 8,
+    "one_to_one_follow_up": 5,
+    "alternative_school_placement": 7,
+    "crisis_intervention": 2,
+    "other_school_services": 0,
+    "no_school_services": 4
+   },
+   "school_service_accessed": {
+    "yes": 30,
+    "no": 0,
+    "none_recommended": 4
+   },
+   "community_service": {
+    "children_and_youth": 2,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 7,
+    "other_community_agency": 4,
+    "screening_bh_liaison": 2,
+    "screening_mh_liaison": 2,
+    "screening_da_liaison": 5,
+    "no_community_services": 12,
+    "natural_community_supports": 0
+   },
+   "community_service_accessed": {
+    "yes": 16,
+    "no": 6,
+    "none_recommended": 12
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 0,
+    "drug_alcohol_assessment": 1,
+    "mental_health_assessment": 1,
+    "one_to_one_atod_da_liaison": 0,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 0,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 7
+   },
+   "sum_checks": {
+    "months": 85,
+    "gender": 85,
+    "race": 85,
+    "grade": 85,
+    "emancipated": 85,
+    "special_ed": 85,
+    "referral_source": 85,
+    "primary_reason": 85,
+    "data_gathered": 85,
+    "parent_contact": 85,
+    "parent_permission": 85
+   },
+   "confidence": "high",
+   "notes": "PDF is image-only (no text layer); values transcribed by visual reading of rendered pages, every block cross-checked to total 85. Q16 school-service primary rows total 34 and Q18 community-service rows total 34; these are counts of cases that reached recommendation stage (action plan yes+no = 34), not of all referrals."
+  },
+  {
+   "district": "CMVT",
+   "type": "ctc",
+   "file_id": "113T5f5vi5akD2Yrd7dcirkmJ-8_WPSR-",
+   "report_title": "Columbia-Montour AVTS",
+   "total_cases": 11,
+   "referrals_by_month": {
+    "September": 0,
+    "October": 2,
+    "November": 3,
+    "December": 0,
+    "January": 3,
+    "February": 1,
+    "March": 0,
+    "April": 2,
+    "May": 0,
+    "June": 0
+   },
+   "referrals_summer": {
+    "July": 0,
+    "August": 0
+   },
+   "by_gender": {
+    "male": 5,
+    "female": 5,
+    "nonbinary_other": 1
+   },
+   "by_race": {
+    "american_indian": 0,
+    "asian": 0,
+    "black": 1,
+    "hispanic": 0,
+    "multiracial": 0,
+    "pacific_islander": 0,
+    "white": 10
+   },
+   "by_grade": {
+    "K": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0,
+    "9": 0,
+    "10": 4,
+    "11": 3,
+    "12": 4
+   },
+   "by_grade_pre_k": {
+    "PreK_half": 0,
+    "PreK_full": 0,
+    "K4_half": 0,
+    "K4_full": 0,
+    "K5_half": 0
+   },
+   "legally_emancipated": {
+    "yes": 0,
+    "no": 11
+   },
+   "special_education": {
+    "yes": 2,
+    "no": 9
+   },
+   "referral_source": {
+    "administrative_non_disciplinarian": 5,
+    "school_mental_health_professionals": 0,
+    "disciplinarian": 0,
+    "instructional_staff": 6,
+    "non_instructional_staff": 0,
+    "parent_guardian": 0,
+    "school_based_team": 0,
+    "school_based_team_tiered": 0,
+    "threat_assessment": 0,
+    "peer": 0,
+    "safe2say": 0,
+    "self": 0,
+    "other": 0
+   },
+   "primary_reason": {
+    "internalizing_behaviors": 1,
+    "externalizing_behaviors": 4,
+    "academic_concerns": 0,
+    "attendance": 1,
+    "bullying": 0,
+    "policy_violation_substance": 0,
+    "other_policy_violation": 0,
+    "substance_use": 0,
+    "cutting_self_harm": 0,
+    "physical_health": 1,
+    "suicide_ideation_gesture_attempt": 1,
+    "re_entry": 0,
+    "social_concern": 0,
+    "other": 3
+   },
+   "data_gathered": {
+    "yes": 3,
+    "no": 8
+   },
+   "data_types_collected": {
+    "behavioral_checklist": 3,
+    "observations": 3,
+    "academic_records": 3,
+    "attendance_records": 3,
+    "disciplinary_records": 3
+   },
+   "parent_contact_initiated": {
+    "yes": 8,
+    "no": 3,
+    "na_emancipated": 0
+   },
+   "parent_permission": {
+    "yes": 2,
+    "no": 9,
+    "na_emancipated": 0
+   },
+   "discontinued_reasons": {
+    "parent_refusal_referred_community": 0,
+    "parent_refusal_referred_in_school": 0,
+    "student_refusal": 0,
+    "other": 0,
+    "parent_refusal": 0,
+    "no_longer_enrolled": 3,
+    "sap_not_appropriate": 3,
+    "already_in_treatment": 2,
+    "referral_outpatient_in_school": 3
+   },
+   "discontinued_other_school_services": {
+    "academic_supports": 0,
+    "school_team_supports": 0,
+    "group_intervention": 0,
+    "one_to_one_counseling": 10,
+    "school_social_worker": 10,
+    "one_to_one_follow_up": 8,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 1,
+    "other_school_services": 0,
+    "no_school_services": 1
+   },
+   "action_plan": {
+    "yes": 0,
+    "no": 0
+   },
+   "goals_met": {
+    "yes": 0,
+    "somewhat": 0,
+    "no": 0
+   },
+   "school_service": {
+    "academic_supports": 0,
+    "school_team_supports": 0,
+    "one_to_one_counseling": 0,
+    "group_intervention": 0,
+    "school_social_worker": 0,
+    "one_to_one_follow_up": 0,
+    "alternative_school_placement": 0,
+    "crisis_intervention": 0,
+    "other_school_services": 0,
+    "no_school_services": 0
+   },
+   "school_service_accessed": {
+    "yes": 0,
+    "no": 0,
+    "none_recommended": 0
+   },
+   "community_service": {
+    "children_and_youth": 0,
+    "continuing_da_treatment": 0,
+    "continuing_mh_treatment": 0,
+    "other_community_agency": 0,
+    "screening_bh_liaison": 0,
+    "screening_mh_liaison": 0,
+    "screening_da_liaison": 0,
+    "no_community_services": 0,
+    "natural_community_supports": 0
+   },
+   "community_service_accessed": {
+    "yes": 0,
+    "no": 0,
+    "none_recommended": 0
+   },
+   "screening_recommendation": {
+    "behavioral_health_assessment": 0,
+    "drug_alcohol_assessment": 0,
+    "mental_health_assessment": 0,
+    "one_to_one_atod_da_liaison": 0,
+    "one_to_one_mh_liaison": 0,
+    "other_social_service_agencies": 0,
+    "group_intervention": 0,
+    "no_recommendation": 0,
+    "information_not_available": 0,
+    "screening_did_not_occur": 0
+   },
+   "sum_checks": {
+    "months": 11,
+    "gender": 11,
+    "race": 11,
+    "grade": 11,
+    "emancipated": 11,
+    "special_ed": 11,
+    "referral_source": 11,
+    "primary_reason": 11,
+    "data_gathered": 11,
+    "parent_contact": 11,
+    "parent_permission": 11
+   },
+   "confidence": "high",
+   "notes": "Parsed from pdftotext -layout output of the PDE report; all page-1/2 category blocks checked against TOTAL SAP CASES. Columbia-Montour AVTS is a shared career and technology center, not a school district; its students are also enrolled in sending districts (possible double counting with Bloomsburg, Central Columbia, Berwick, Millville, Danville, Southern Columbia). Q16 school-service primary rows total 0 and Q18 community-service rows total 0; these are counts of cases that reached recommendation stage (action plan yes+no = 0), not of all referrals."
+  }
+ ]
+}
