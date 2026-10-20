@@ -3,6 +3,6 @@ node_modules
 .env
 .env.local
 warehouse/*.db
-warehouse/*.db-journal
+warehouse/*.db-*
 *.zip
 out/
