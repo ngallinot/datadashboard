@@ -57,7 +57,7 @@ export function RegionMap(p: MapProps) {
       map.addLayer({ id: "d-hover", type: "line", source: "districts", paint: { "line-color": "#0f2a44", "line-width": 2.5 }, filter: ["==", ["get", "geoid"], ""] });
       map.addLayer({ id: "c-line", type: "line", source: "counties", paint: { "line-color": "#0f2a44", "line-width": 1.6, "line-opacity": 0.55 } });
       map.addLayer({ id: "d-label", type: "symbol", source: "district-labels", layout: { "text-field": ["get", "name"], "text-size": 10.5, "text-font": ["Montserrat Medium"], "text-allow-overlap": false }, paint: { "text-color": "#0f1720", "text-halo-color": "rgba(255,255,255,0.9)", "text-halo-width": 1.4 } });
-      map.addLayer({ id: "c-label", type: "symbol", source: "county-labels", layout: { "text-field": ["get", "name"], "text-size": 11, "text-letter-spacing": 0.12, "text-font": ["Montserrat Bold"], "text-offset": [0, -2.2], "text-allow-overlap": true }, paint: { "text-color": "#1d4f7c", "text-opacity": 0.8, "text-halo-color": "rgba(255,255,255,0.9)", "text-halo-width": 1.2 } });
+      map.addLayer({ id: "c-label", type: "symbol", source: "county-labels", layout: { "text-field": ["get", "name"], "text-size": 11, "text-letter-spacing": 0.12, "text-font": ["Montserrat SemiBold"], "text-offset": [0, -2.2], "text-allow-overlap": true }, paint: { "text-color": "#1d4f7c", "text-opacity": 0.8, "text-halo-color": "rgba(255,255,255,0.9)", "text-halo-width": 1.2 } });
       setReady(true);
     });
     return () => { map.remove(); mapRef.current = null; };
