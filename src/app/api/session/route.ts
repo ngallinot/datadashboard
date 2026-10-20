@@ -1,11 +1,12 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { ROLES } from "@/lib/scope";
+import { publicOrigin } from "@/lib/origin";
 
 /** Sets the role / district / classroom cookies that stand in for a login in this prototype, then redirects. */
 export function GET(req: NextRequest) {
   const url = req.nextUrl;
   const next = url.searchParams.get("next") || "/";
-  const res = NextResponse.redirect(new URL(next.startsWith("/") ? next : "/", url.origin), 303);
+  const res = NextResponse.redirect(new URL(next.startsWith("/") ? next : "/", publicOrigin(req)), 303);
   const opts = { path: "/", sameSite: "lax" as const, httpOnly: false };
   const role = url.searchParams.get("role");
   if (role && ROLES.some((r) => r.id === role)) res.cookies.set("role", role, opts);

@@ -1,6 +1,7 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { getScope } from "@/lib/scope";
 import { renderPdf } from "@/lib/pdf";
+import { publicOrigin, internalOrigin } from "@/lib/origin";
 import { zipFiles, toCsv } from "@/lib/zip";
 import { buildings, attendanceByGrade, supportResults, supportList, activeSupports, insights, overviewKpis, referralsBreakdown } from "@/lib/queries/district";
 
@@ -25,9 +26,9 @@ export async function GET(req: NextRequest) {
     ];
     return new NextResponse(new Uint8Array(zipFiles(files)), { headers: { "content-type": "application/zip", "content-disposition": `attachment; filename="district-data-${slug}-2026-10-20.zip"` } });
   }
-  const url = new URL(`/print/district?aun=${scope.aun}`, req.nextUrl.origin).toString();
-  if (format === "html") return NextResponse.redirect(url);
+  const path = `/print/district?aun=${scope.aun}`; const url = new URL(path, internalOrigin()).toString(); const publicUrl = new URL(path, publicOrigin(req)).toString();
+  if (format === "html") return NextResponse.redirect(publicUrl);
   const pdf = await renderPdf(url, [{ name: "aun", value: String(scope.aun) }, { name: "role", value: "district" }]);
-  if (!pdf) return NextResponse.redirect(url + "&nopdf=1");
+  if (!pdf) return NextResponse.redirect(publicUrl + "&nopdf=1");
   return new NextResponse(new Uint8Array(pdf), { headers: { "content-type": "application/pdf", "content-disposition": `attachment; filename="district-meeting-${slug}-2026-10-20.pdf"` } });
 }
