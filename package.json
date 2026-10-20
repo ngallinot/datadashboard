@@ -10,7 +10,8 @@
     "seed": "tsx warehouse/seed/index.ts",
     "sis:load": "tsx sis/load.ts",
     "risk": "tsx warehouse/seed/risk.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test:ask": "tsx --conditions=react-server scripts/test-ask.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.135.0",
@@ -22,6 +23,7 @@
     "react-dom": "19.3.0",
     "recharts": "^3.10.1",
     "seedrandom": "^3.0.5",
+    "server-only": "^0.0.1",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
